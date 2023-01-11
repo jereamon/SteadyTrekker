@@ -31,4 +31,11 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 
-THEME = "simple"
+THEME = "themes/steadytrekker_theme"
+CSS_FILE = "base.css"
+JS_FILE  = "base.js"
+
+# If this is True then the categories show up on the main menu
+DISPLAY_CATEGORIES_ON_MENU = False
+
+HOME_IMAGE = "home01_radial_gradient.jpg"
