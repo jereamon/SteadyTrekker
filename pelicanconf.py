@@ -25,17 +25,24 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 6
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
 
 THEME = "themes/steadytrekker_theme"
-CSS_FILE = "base.css"
-JS_FILE  = "base.js"
+CSS_FILE = "main.css"
+JS_FILE  = "main.js"
 
 # If this is True then the categories show up on the main menu
 DISPLAY_CATEGORIES_ON_MENU = False
 
 HOME_IMAGE = "home01_radial_gradient.jpg"
+HOME_IMAGE_FULL = "DSC00800-full-size_compressed.jpg"
+
+
+IGNORE_FILES = [
+    '*.scss',
+    '*.sass',
+]

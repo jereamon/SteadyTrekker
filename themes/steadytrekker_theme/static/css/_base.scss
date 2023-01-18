@@ -1,0 +1,102 @@
+/*#region Start Variables  */
+:root {
+    --dark-grey: #333333;
+    --light-grey: #eeeeee;
+    --color: var(--light-grey);
+
+    --purple: #47294c;
+    --purple-low-opacity: rgba(71, 41, 76, 0.8);
+    --brown:  #715416;
+    --blue:   #00616a;
+
+    --grey-text-shadow: 2px 2px 1px var(--dark-grey);
+
+
+    --nav-height: 50px;
+    --nav-border: solid 1px var(--light-grey);
+    --nav-right-pad: 15px;
+    --burger-width: 35px;
+    --burger-height: 3px;
+    --burger-bar-offset: 12px; 
+
+    --main-size: 16px;
+    --header-size: 35px;
+    --sub-header-size: 30px;
+
+    --serif-font: "Cormorant Garamond", "Times New Roman", Georgia, Serif;
+    --sans-serif-font: "Lato", Helvetica, Arial, sans-serif;
+
+
+
+    --home-post-mobile-width: 100vw;
+    --home-post-side-padding: 15px;
+    --home-post-margin:       15px;
+}
+/*#endregion End Variables  */
+
+
+/*#region Start CSS Reset */
+html {
+    box-sizing: border-box;
+    height: 100vh;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+    color: var(--font-color);
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+    color: var(--light-grey);
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: var(--header-size);
+    font-family: var(--sans-serif-font);
+    font-weight: normal;
+}
+
+h2 {
+    font-size: var(--sub-header-size);
+    font-family: var(--serif-font);
+}
+
+p {
+    font-size: var(--main-size);
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+/*#endregion End CSS Reset */
+
+
+body {
+    background-color: var(--dark-grey);
+    padding-top: var(--nav-height);
+}

@@ -1,0 +1,114 @@
+/*#region Nav */
+nav {
+    background-color: var(--dark-grey);
+    border-bottom: var(--nav-border);
+    height: var(--nav-height);
+    left: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    transition: height 250ms;
+    width: 100%;
+
+
+    ul {
+        display: grid;
+        grid-template-rows: var(--nav-height) auto;
+        justify-items: end;
+
+
+        li {
+            align-items: center;
+            display: flex;
+            height: var(--nav-height);
+            justify-content: flex-end;
+            padding-right: var(--nav-right-pad);
+            width: 100vw;
+
+            &:not(:first-child) {
+                border-top: var(--nav-border);
+            }
+
+            a {
+                line-height: calc(var(--nav-height) - 1px);
+                text-align: end;
+            }
+
+
+
+            .burger {
+                position: relative;
+            }
+        
+        
+            .burger, .burger::before, .burger::after {
+                background-color: var(--light-grey);
+                border-radius: 2px;
+                height: var(--burger-height);
+                transition: transform 300ms, top 200ms;
+                width: var(--burger-width);
+            }
+        
+            .burger::before, .burger::after {
+                content: "";
+                display: block;
+                position: absolute;
+            }
+        
+            .burger::before {
+                top: calc(var(--burger-bar-offset) * -1); }
+                
+            .burger::after {
+                top: var(--burger-bar-offset);
+            }
+        }
+
+        li.open {
+            .burger {
+                transform: rotate(45deg);
+            }
+
+            .burger::before {
+                top: 0px; }
+                
+            .burger::after {
+                top: 0px;
+                transform: rotate(90deg);
+            }
+        }
+    }
+}
+
+@media (min-width: 768px) {
+    nav {
+        ul {
+            grid-auto-flow: column;
+            grid-template-rows: none;
+
+            li {
+                padding-left: 25px;
+                padding-right: 25px;
+                width: auto;
+                transition: background-color 250ms;
+
+                &.burger-container {
+                    display: none;
+                }
+
+                &:not(:first-child) {
+                    border-top: none;
+                }
+
+                &:nth-child(2) {
+                    justify-self: start;
+                }
+
+                &:hover {
+                    background-color: var(--blue);
+
+                }
+            }
+        }
+    }
+}
+/*#endregion Nav */

@@ -1,6 +1,17 @@
 {% extends "base.html" %}
 {% block content %}
-<section id="home" style="background-image: url({{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{{ HOME_IMAGE }}">
+<style>
+  section#home {
+    background-image: url("{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{{ HOME_IMAGE }}");
+  }
+
+  @media (min-width: 768px) and (orientation: landscape) {
+    section#home {
+      background-image: url("{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{{ HOME_IMAGE_FULL }}");
+  }
+</style>
+
+<section id="home">
   <div>
     <h1>Hi, I'm Jeremy</h1>
     <h2>This is the place to follow along with my&nbsp;adventures</h2>
@@ -12,25 +23,17 @@
   <ol id="post-list">
     {% for article in articles_page.object_list %}
       <li>
-        <article class="hentry">
-          <header> <h2 class="entry-title">
-            <a href="{{ SITEURL }}/{{ article.url }}" 
-               rel="bookmark" 
-               title="Permalink to {{ article.title|striptags }}">
-              {% if article.postimage %}
-                <img class="post-image" src="{{ SITEURL }}/images/{{ article.postimage }}" alt="">
-              {% endif %}
-               {{ article.title }}
-            </a>
-          </h2> </header>
-          <footer class="post-info">
-            <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
-          </footer><!-- /.post-info -->
-
-          <div class="entry-content">
-            {{ article.summary }}
-          </div><!-- /.entry-content -->
-        </article>
+        <a href="{{ SITEURL }}/{{ article.url }}" 
+            rel="bookmark" 
+            title="Permalink to {{ article.title|striptags }}">
+          {% if article.postimage %}
+            <img class="post-image" src="{{ SITEURL }}/images/{{ article.postimage }}" alt="">
+          {% endif %}
+          
+          <h2 class="entry-title">
+            {{ article.title }}
+          </h2>
+        </a>
       </li>
     {% endfor %}
   </ol><!-- /#posts-list -->

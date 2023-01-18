@@ -48,6 +48,7 @@ h6,
 p,
 ol,
 ul {
+  color: var(--light-grey);
   margin: 0;
   padding: 0;
   font-weight: normal;
@@ -104,7 +105,7 @@ nav {
 nav ul {
   display: grid;
   grid-template-rows: var(--nav-height) auto;
-  justify-content: end;
+  justify-items: end;
 }
 nav ul li {
   align-items: center;
@@ -153,12 +154,37 @@ nav ul li.open .burger::after {
   transform: rotate(90deg);
 }
 
+@media (min-width: 768px) {
+  nav ul {
+    grid-auto-flow: column;
+    grid-template-rows: none;
+  }
+  nav ul li {
+    padding-left: 25px;
+    padding-right: 25px;
+    width: auto;
+    transition: background-color 250ms;
+  }
+  nav ul li.burger-container {
+    display: none;
+  }
+  nav ul li:not(:first-child) {
+    border-top: none;
+  }
+  nav ul li:nth-child(2) {
+    justify-self: start;
+  }
+  nav ul li:hover {
+    background-color: var(--blue);
+  }
+}
 /*#endregion Nav */
 /*#region Home */
 section#home {
   align-items: center;
   background-size: cover;
   background-position: center top;
+  border-bottom: solid 5px var(--blue);
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -174,13 +200,24 @@ section#home h1, section#home h2 {
   text-shadow: var(--grey-text-shadow);
 }
 
+@media (min-width: 769px) {
+  section#home {
+    background-position: center 60%;
+  }
+}
 /*#endregion Home */
 /*#region Posts */
+section#posts {
+  padding-top: var(--nav-height);
+}
+section#posts h1 {
+  text-align: center;
+}
 section#posts ol {
   display: grid;
-  grid-row-gap: var(--home-post-margin);
-  justify-content: center;
-  padding-top: 2.5vh;
+  grid-row-gap: calc(var(--nav-height) / 2);
+  padding-top: calc(var(--nav-height) / 5);
+  padding-bottom: var(--nav-height);
 }
 section#posts ol li:nth-child(even) {
   background-color: var(--brown);
@@ -189,31 +226,64 @@ section#posts ol li:nth-child(odd) {
   background-color: var(--blue);
 }
 section#posts ol li {
+  align-items: center;
   border-radius: 5px;
   display: flex;
-  justify-content: center;
-  padding: var(--home-post-side-padding);
-  width: calc(var(--home-post-mobile-width) - var(--home-post-side-padding));
+  flex-direction: column;
+  justify-content: flex-start;
+  height: auto;
+  padding-bottom: calc(var(--nav-height) / 2);
 }
-section#posts ol li article a {
+section#posts ol li a {
   align-items: center;
   display: flex;
   flex-direction: column;
 }
-section#posts ol li article a img {
+section#posts ol li a img {
   border-radius: 5px;
-  height: calc(var(--home-post-mobile-width) * 0.66);
+  max-height: 50vw;
   width: var(--home-post-mobile-width);
   -o-object-fit: cover;
      object-fit: cover;
 }
-section#posts ol li article footer {
-  display: flex;
-  justify-content: center;
+section#posts ol li h2 {
+  font-family: var(--sans-serif-font);
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
 }
-section#posts ol li article .entry-content {
+section#posts ol li p {
+  max-height: 33vw;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
-/*#endregion Posts *//*# sourceMappingURL=base.css.map */
+@media (min-width: 480px) {
+  section#posts ol {
+    grid-template-columns: 66vw;
+    grid-template-rows: 66vw;
+    justify-content: center;
+  }
+  section#posts ol li {
+    height: 66vw;
+  }
+}
+@media (min-width: 769px) {
+  section#posts ol {
+    grid-column-gap: var(--nav-height);
+    grid-row-gap: 3vw;
+    grid-template-columns: repeat(2, 35vw);
+    grid-template-rows: 35vw;
+    justify-content: center;
+  }
+  section#posts ol li {
+    height: 35vw;
+  }
+  section#posts ol li a img {
+    max-height: 25vw;
+  }
+  section#posts ol li p {
+    max-width: 450px;
+  }
+}
+/*#endregion Posts *//*# sourceMappingURL=main.css.map */
