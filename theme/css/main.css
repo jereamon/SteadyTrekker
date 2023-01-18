@@ -202,7 +202,7 @@ section#home h1, section#home h2 {
 
 @media (min-width: 769px) {
   section#home {
-    background-position: center 60%;
+    justify-content: center;
   }
 }
 /*#endregion Home */
