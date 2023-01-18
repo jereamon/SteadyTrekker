@@ -2,6 +2,9 @@
 `make publish`
 `ghp-import output`
 `git push origin gh-pages`
+`make html` <-- to set the main branch back to 'dev mode'
+
+**ONLY COMMIT ON MAIN BRANCH AFTER `make html` NOT AFTER `make publish`**
 
 # Local Notes
 You can use `pelican content` or `make html` or `make publish`.
@@ -30,6 +33,7 @@ Use it as such:
 
 Then push that branch:
 `git push origin gh-pages`
+
 
 
 # On Github Notes

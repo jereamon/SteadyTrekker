@@ -39,7 +39,7 @@ JS_FILE  = "main.js"
 DISPLAY_CATEGORIES_ON_MENU = False
 
 HOME_IMAGE = "home01_radial_gradient.jpg"
-HOME_IMAGE_FULL = "DSC00800-full-size_compressed.jpg"
+HOME_IMAGE_FULL = "DSC00800-gradient.jpg"
 
 
 IGNORE_FILES = [
