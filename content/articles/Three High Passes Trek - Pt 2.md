@@ -1,7 +1,7 @@
 Title: Three High Passes Trek - Pt 2
 Date: 2018-10-11 18:21:05
 PostImage: article_images/default-post-thumbnail.jpg
-Status: draft
+Status: published
 
 <p>I heard many estimates for the time it would take to trek from Phaplu to Lukla. I was told two days by several people as well as three to five days by others. Three to five days is accurate. As I write this I've walked three full days and likely could make it to Lukla tomorrow though we'll be bypassing it to head straight for Cheplung and higher up.</p>
 <br />

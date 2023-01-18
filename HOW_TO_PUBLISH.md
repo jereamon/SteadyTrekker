@@ -1,39 +1,7 @@
 # Local workflow to publish
-`make publish`
-`ghp-import output`
-`git push origin gh-pages`
-`make html` <-- to set the main branch back to 'dev mode'
+`make github`
 
-**ONLY COMMIT ON MAIN BRANCH AFTER `make html` NOT AFTER `make publish`**
-
-# Local Notes
-You can use `pelican content` or `make html` or `make publish`.
-
-I'm not sure how `pelican content` is different from the other two.
-
-But `make html` uses `pelicanconf.py` for settings
-while `make publish` uses `publishconf.py` for settings.
-
-`publishconf.py` imports everything from `pelicanconf.py` anyway.
-
-### Why you use `make publish`
-Ok, I'm a little confused. But basically, you need to use make publish when you publish
-because I specified the site URL in there and without that none of the resources (css/js/images)
-will have paths that can be found. So use `make publish` when you mean to publish!
-
-The part I'm confused about is somehow everything still seems to 
-
-
-## Important -- gh-pages branch
-Using pip I installed the package: **ghp-import**.
-When used it will copy the contents of a folder to the gh-pages branch.
-
-Use it as such:
-`ghp-import output`
-
-Then push that branch:
-`git push origin gh-pages`
-
+Check `Makefile` to see what `make github` actually does. It should run `make publish`, use `ghp-import` to move contents of the output dir to the gh-pages branch, push that branch to github, and then run `make html` to bring the content back to its local development state.
 
 
 # On Github Notes
