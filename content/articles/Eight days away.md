@@ -1,0 +1,14 @@
+Title: Eight days away
+Date: 2018-09-08 05:06:30
+PostImage: article_images/default-post-thumbnail.jpg
+Status: draft
+
+That's right, only eight days until my adventure begins. I'm ironing out details left and right and feeling less prepared than ever. My burgeoning excitement combats the feeling that I've made a terrible mistake and throughout this unsettling cacophony of emotions, I've maintained the mindset that this will make for an enlightening saga of personal growth. I hope to learn about myself and perhaps become more selfless in the process. It's too easy to spend all of our time wrapped up in our own little world and it feels like high time to shift my focus outward. In the meantime, I'll be having little panic attacks every few hours.
+
+On a drastically different note. The water in Nepal is unfortunately not safe to drink for foreigners or really anyone. With only a week left to prepare I discovered a major flaw in my water filtration plan. We're fortunate in North America to have adequate sewage systems and as such, typically don't have to worry about viruses proliferating in our water. This is still a different story in Nepal. Viruses do proliferate in their water and unbeknownst to me, typical backpacking water filters aren't sufficient for virus removal. Your typical filter will remove itty bits at 0.2 microns, plenty small to remove bacteria and protozoa. Viruses, however, live on a still smaller scale, down around 0.0017 microns. Small enough to slip right by the filter I had planned to use.
+
+<img class="aligncenter wp-image-828 size-large" src="/images/article_images/2018/09/DSC02330-1024x680.jpg" alt="" width="1024" height="680" />
+
+This discovery freaked me out for a moment. Barely a week before departure it doesn't take much to set my mind reeling. I did some quick research and found my options limited to; buying bottled water, buying a Steripen UV filter, or using purification tablets for nearly all the water I'll drink. Now, I don't want to purchase bottled water for two reasons. Excessive plastic waste and I've read that much of the bottled water available can be contaminated as well. Purchasing a Steripen momentarily sounded enticing. They're fast and easy to use, but one more expensive electronic device is not something I want to deal with. So, purification tablets it is. They're relatively cheap, highly effective, and can't break. At $15.00 for 200 tablets, I should be able to get by affordably and without creating too much additional trash.
+
+Having sorted out my drinking water and put out one of my mental fires it's back to organizing and condensing the gear I'll pack along. For the time being it's strewn everywhere but day by day it is becoming denser and more specifically categorized.

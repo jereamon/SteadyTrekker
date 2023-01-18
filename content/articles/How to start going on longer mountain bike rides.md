@@ -1,0 +1,14 @@
+Title: How to start going on longer mountain bike rides.
+Date: 2018-04-30 01:36:11
+PostImage: article_images/default-post-thumbnail.jpg
+Status: draft
+
+I have three quick suggestions if you're trying to work your way up to longer and longer mountain bike rides.
+<h3>First</h3>
+Make sure you have proper tools, spares, food, and water. Keep your tools minimal, light, and multipurpose. Something like the <a href="https://www.parktool.com/product/i-beam-mini-fold-up-with-chain-tool-ib-3">Park Tools I-Beam Multi-Tool</a> is great to have in your kit. Tire bars, a spare tube, a tire pump, and potentially a patch kit as well are important pieces to keep you rolling in case of a puncture. Throw in a spare master link for your chain and a spare derailleur hanger and you'll be set for any minor issues that may accost you on the trail.
+<h3>Second</h3>
+Build muscle and cardiovascular endurance over time. Unfortunately, you can't expect to immediately double your ride lengths. Well, not without some pain. One way or another you're going to
+<h3><img class="wp-image-458 alignright" style="color: #666666; font-size: 14px;" src="/images/article_images/2018/05/bicycle-2540179_1920-300x200.jpg" alt="" width="300" height="200" /></h3>
+have to push yourself. To do this without incurring severe discomfort I would recommend gradually increasing your ride lengths. Ideally at a trail system where you can continue adding distance to your ride without adding to the distance from your car. Over time you'll become better at dealing with the necessary physical discomforts that will always accompany intense physical exertion over extended periods of time. Increase your ride length too quickly and you likely won't find yourself in mortal danger. But the longer you're riding the more chance there is for you to bonk (completely run out of energy) making getting back a nightmarish slog. Or develop a gnarly chafe between your thighs, making every pedal stroke a painful reminder of how far you have to go.
+<h3>Third</h3>
+Take a friend! Even one other person along can make the miles fly by as you chat and commiserate about the misery you've decided to inflict upon yourself. As well as friends being good company there's also safety in numbers. Should you have a gnarly wreck or an irreparable breakdown they will ideally have either spare parts, medical proficiency, a cell phone, or a beastly physique that can haul you out to safety with ease. That and who wants to carry a selfie stick for that epic view at the end of your massive cross-country jaunt. Dig through those contacts and find someone as crazy as you to commit to your upcoming huge days on the bike!

@@ -1,0 +1,9 @@
+Title: The Rain Has Ended
+Date: 2018-04-14 01:50:09
+PostImage: article_images/default-post-thumbnail.jpg
+Status: draft
+
+[et_pb_section fb_built="1" _builder_version="3.0.47" custom_padding="54px|0px|56px|0px"][et_pb_row _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="2_3" _builder_version="3.0.106" parallax="off" parallax_method="on"][et_pb_text _builder_version="3.0.106"]Well well. After several weeks of continual rain and misery, it looks as though we may have made it out the other side. The forecasts show nothing but sunny skies and high sixties around here. I can't help but feel a bit of relief at that! Finally, it won't be a struggle to get outdoors. We can get back to playing instead of enduring.
+
+On that note yesterday was the first time in a while that I've felt comfortable descending on my bike. The last several rides I have struggled to find any rhythm and continually felt close to crashing. I played it safe and took it slow, but that's no fun! I love the playful flowy rides I'm used to and had no idea where the flow had gone. A little part of me felt as though I may be over mountain biking. Maybe I had ridden myself out through the winter and now I'm burned out. But luckily I recently learned how to deal with burnout. Ignore it! If you really want to progress the only way is to push through and continue the complex, frustrating, and in mountain biking often frightening learning process. Thus three or so rides later and I'm back on my game. With better suspension, new tires, and stronger legs than ever.
+[/et_pb_text][/et_pb_column][et_pb_column type="1_3" _builder_version="3.0.106" parallax="off" parallax_method="on"][et_pb_image src="/images/article_images/2018/04/jared-weiss-228331-unsplash.jpg" _builder_version="3.2" alt="A mountain biker rides a wheelie on a ridge."][/et_pb_image][/et_pb_column][/et_pb_row][/et_pb_section]

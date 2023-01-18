@@ -1,0 +1,16 @@
+Title: No posts since July?!
+Date: 2018-07-24 17:00:46
+PostImage: article_images/default-post-thumbnail.jpg
+Status: draft
+
+A friend of mine happens to have bought the exact backpack for his travels around Europe that I am considering for my trekking in Nepal. A <a href="https://www.kelty.com/redwing-44/">Kelty Redwing 44</a>. With 44 liters of space, it's carry on size for most airlines, has handy features like a laptop sleeve, easy access to gear via panel loader construction, and at a reasonable price of $125, it sounds just about perfect. With one slight exception.
+
+Being the generous person my friend is he offered to let me pack his pack with the gear I intend to bring with me on my multiple upcoming adventures. I quickly realized that 44 liters isn't as much space as I had pictured. To start I threw in what I thought was a respectably minimalist sack of clothes and watched half the bag space disappear. Topping it off with my new 20 degree down quilt and the bag was essentially full. Now, fortunately, clothes and sleeping bag will be my two biggest items for Nepal trekking. Unfortunately, I still have a lot of other shit I'd like to fit!
+
+<img class="aligncenter wp-image-741 size-full" title="A packed backpack" src="/images/article_images/2018/07/redwing1.jpg" alt="" width="500" height="333" />
+
+So, now comes the big question. Do I check a bag or not? I would love to make my way with only a carry on and will still try to make that work. However, the answer to my question is slightly more complicated than just downsizing my wardrobe. I need to get my bicycle touring kit to New Zealand somehow after all. So my question takes a slightly different shape. Is it cheaper to ship my tent, camp kitchen, chamois, tools, and other bicycle nonsense to New Zealand as freight, or as checked baggage that I would keep in storage while in Nepal?
+
+Time for some research. As far as my feelings go, I think a checked bag would take more weight off my shoulders than it would add. By which I mean, checking bags is a pain, and a bit stressful, and obviously adds literal weight to my shoulders when getting to and from the airport. But, the small amount of leniency in the way would be able to pack may make enough difference to make it worthwhile. I would prefer to have extra space in my backpack rather than a crammed full pack. And because of the potential for harsh weather where I'm headed it would make me feel so much better having ample space for adequate layers to keep me warm and dry.
+
+One key point I may have forgotten is that many airlines technically allow one carry on item as well as one personal item. So the combination of the two may allow me all the storage I need. We'll see. I have a lot of planning left to do, plane tickets yet to buy, and hopefully a short-term job to line up to ensure sufficient funds for all this adventuring. It looks like this post will be short but it motivated me to do some quality research into baggage allowances and for the time being that's all the purpose this blog serves.

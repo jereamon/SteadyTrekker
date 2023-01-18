@@ -1,0 +1,46 @@
+Title: Three High Passes Trek - Pt 6
+Date: 2018-11-05 12:48:05
+PostImage: article_images/default-post-thumbnail.jpg
+Status: draft
+
+<p>Having arrived in Namche I felt an overwhelming sense of relief and accomplishment. I had technically gotten back on track with my original trekking plan when we made it to Phakding but Namche was my focus and goal since we began. In turn, I began to feel a bit lost as well. I knew I had to determine what destination to focus on next before I completely lost my sense of direction. I was already tired and homesick and a part of me wanted nothing more than to call it quits and head back to the relative comfort of Kathmandu.</p>
+
+<figure><img class="size-large wp-image-959" src="/images/article_images/2018/10/20181010_072705-1024x768.jpg" alt="Sunrise over Namche. I can't remember what peak that is." /><figcaption>Sunrise over Namche. I can't remember what peak that is.</figcaption></figure>
+
+<p>Of course, I couldn't allow myself to do this. I have a paper itinerary with my entire route planned and once it's on paper I'm pretty good at sticking to it. So I showered, ate well, and made the most of our rest day with Sanjey, Niclas, and Ujjal. We went for a short walk to a nearby Everest viewpoint and discovered not only our first views of Everest and Lhotse but a museum dedicated to Sagarmatha National Park and a statue of Tenzing Norgay as well. We spent a while there taking photos, learning about the park, and watching as the clouds gathered and cleared around the peaks of the highest mountains in the world. From here they still looked distant, unattainable.</p>
+
+<figure><img class="size-large wp-image-960" src="/images/article_images/2018/10/20181010_110255-1024x1024.jpg" alt="Tenzing Norgay statue with cloud covered Everest and Lhotse behind." /><figcaption>Tenzing Norgay statue with cloud covered Everest and Lhotse behind.</figcaption></figure>
+
+<p>Before too long my antsy nature took hold and I suggested a few times to my relaxing friends that we head down to town for errands and lunch. I had laundry done in Kathmandu and didn't realize until well after the fact that they hadn't returned one of my socks. So, with the intention of acquiring a fresh pair and stocking up on snacks before getting too far into the middle of nowhere the four of us left the hilltop in the direction of town.</p>
+
+<br/>
+
+<p>A short while and a lot of wandering later and I had procured a new pair of socks for three hundred rupees, additional snacks to feed my endless appetite, and a bag of black tea to avoid the increasing teahouse tea prices. By now we were starving and unsure where to eat. The main restaurants in Namche are all touristy and accordingly expensive. Not wanting to pay exorbitant prices and hoping to find more authentic food Sanjey and I spurred the group to further exploration.</p>
+
+<br />
+
+<p>We headed towards a place I had seen the day before. A dingy home restaurant that reeked of alcohol and lacked any cleanliness or lighting. We were told the only thing being served were veg momos and we would have ordered some if not for an inflated foreigner price procured from thin air by the proprietor. Disgruntled we left without further negotiation.</p>
+
+<figure><img class="size-large wp-image-961" src="/images/article_images/2018/10/20181010_120413-1024x423.jpg" alt="Panorama of Namche Bazaar" /><figcaption>Panorama of Namche Bazaar</figcaption></figure>
+
+<p>Ujjal told us of a spot he had gone the day before with inexpensive and delicious plates of momos. Quickly in agreement, we headed towards the place keeping our eyes peeled for anywhere else with reasonable prices and a bit more variety. The spot we wound up at was fittingly titled 'The Momo Center', considering the only thing they served were buff momos for 150 rupees per plate. It was someone's kitchen and bedroom combined. Unperturbed we ordered a plate apiece and sat outside on a nearby stone wall as they were prepared. Our first plates disappeared in seconds and considering the low price compared to Namche standards we all ordered more.</p>
+
+<br />
+
+<p>We had shopped and eaten and without anything else to do in town but spend more money, we headed back to our hotel. I had intended to hike to Hotel Everest View on this day off to aid the acclimatization process but had written it off due to fatigue and disinterest from the rest of the group. No one wanted to do a steep, strenuous climb straight up the hillside behind Namche. I nearly didn't but it was on my itinerary, and I have a hard time sitting around for long. So, at the last minute, I threw the bare necessities in my day back and headed out the door. It was already 3:30 pm so I didn't have that much light left, but by myself and without my full pack I moved quickly up the hill savoring the increasingly beautiful views of Namche from above.</p>
+
+<figure><img class="size-large wp-image-962" src="/images/article_images/2018/10/20181010_171355-e1541348440247-1024x953.jpg" alt="Looking down the trail towards Namche and beyond." /><figcaption>Looking down the trail towards Namche and beyond.</figcaption></figure>
+
+<p>Little more than an hour later I arrived at the hotel. Confusion was my first reaction. Surrounded by trees the unassuming hotel sits on top of a rise in the middle of nowhere with nothing more than a footpath leading to it. It's clearly a quality hotel and if not for the afternoon fog the views would have been incredible. I had read previously that rooms go for around $200 per night but at that time didn't know the history of the place and couldn't begin to understand who, with that kind of money, would make the journey to stay there.</p>
+
+<figure><img class="size-large wp-image-963" src="/images/article_images/2018/10/20181010_164422-1024x576.jpg" alt="Out front of Hotel Everest View. The highest I had ever been at that time. 12,729'" /><figcaption>Out front of Hotel Everest View. The highest I had ever been at that time. 12,729'</figcaption></figure>
+
+<p>I later found out that the hotel was built by Japanese entrepreneurs along with the nearby Syangboche airport. When the hotel opened in 1973 the intention was that tourists would be able to fly into the nearby airstrip and with minimal effort have fantastic views of Everest, Lhotse, Ama Dablam, and all those other snowy peaks. Apparently, flying directly to 12,600 feet makes for awful altitude symptoms and it wasn't until a few deaths occurred that there was government intervention and the airstrip was shut down. Without flights to Syangboche, the only option left to tourists is making the walk from Lukla. <a href="https://www.derelictplaces.co.uk/main/overseas-sites/6964-everest-view-hotel-nepal-aug-08-a.html#.W9qX6ZMzYU4">This info thanks to derelictplaces.co.uk</a></p>
+
+<br />
+
+<p>I entered the hotel and wandered around a bit. The dining area and hallways were empty except for staff. I went to the north side of the building and out onto a large equally empty deck. The clouds and fog were too thick for any view so I took a quick look around and began the walk back down hoping to finish the descent before dark. I can move pretty fast so it wasn't long before I was looking down on Namche at sunset. Feeling good without weight on my back I made quick work of the stairs down and made it back with light to spare. The first of many 'rest days' where I would still climb and descend well over 1000 feet.</p>
+
+<figure><img class="size-large wp-image-966" src="/images/article_images/2018/10/20181010_172225-1024x768.jpg" alt="Porters on their way to Namche." /><figcaption>Porters on their way to Namche.</figcaption></figure>
+
+<p>An easier but still trying day had come to a close. I was tired but satisfied with myself and all too ready to get out of civilization and deeper into the mountains. Our next destination would be Tengboche and after all the distance we had already covered it was hard to believe that this trek still wasn't even halfway through. My ravenous appetite led me back to dhal baht for dinner with the obligatory heaping second helping of rice, curried vegetables, and lentil soup and shortly after to my comfy bed. I fell asleep wondering how any of this would be accomplishable without the fantastic luxury of teahouse accommodations along the way.</p>

@@ -1,0 +1,176 @@
+Title: Three High Passes Trek Pt - 16
+Date: 2018-12-13 08:00:31
+PostImage: article_images/2018/12/20181022_101316-1024x576.jpg/
+Status: draft
+
+<!-- wp:paragraph -->
+<p>After a breathtaking hike up Gokyo Ri and a restful afternoon with friends, I rose the next morning, sad to be leaving them and the high mountains behind. At the same time, I was so excited to complete my goal of crossing all three passes and get back to lower elevations. My cough had worsened and a little part of me couldn't help but imagine it being the beginning of high altitude pulmonary edema.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So, I got out of bed early, packed the rest of my things, and headed down to breakfast. Trevor joined me but I had said goodbye to everyone else the night before so they would have a chance to sleep in. I ate quickly, said goodbye to Trevor, and headed out into the cold morning air.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1153} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03183-1024x768.jpg" alt="On my way up Renjo La. Gokyo Lake and village below with Everest in the background." class="wp-image-1153"/><figcaption>On my way up Renjo La. Gokyo Lake and village below with Everest back in the middle and Cholatse on the right.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I started hiking at a fast pace but the altitude caught up with me just as fast and I had to slow down, find my rhythm, and breath deep. The trail followed the north side of the lake and it seemed too soon before I was leaving its shores for the long climb up the hill and out of the valley it sat in.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1154} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03185-1024x768.jpg" alt="Zoomed in on Gokyo." class="wp-image-1154"/><figcaption>Zoomed in on Gokyo.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Whoever set the trail for Renjo La wasn't messing around. There were short switchbacks following a steep ridge and gaining elevation in a hurry. I kept my slow, steady pace and trudged along taking the occasional break to admire the views behind me.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1155} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03195-1024x680.jpg" alt="An interesting lake on the way up Renjo La." class="wp-image-1155"/><figcaption>An interesting lake on the way up Renjo La.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>After the initial climb the trail leveled out for a while and I found myself in another new landscape. One with an exceptional amount of loose sand. It seemed odd to me, crossing this sandbox somewhere around 16,000 feet. It didn't last for long though and then it was back to climbing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A bit of scrambling took me up some solid stone slabs before things leveled out again. I took a moment to look ahead and to my surprise could now see the top of the pass. So far in the distance I wondered how I would ever get there. On my own without others to judge my speed by it felt as though I wasn't moving at all.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1156} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181022_094443-1024x433.jpg" alt="A panorama from partway up the pass." class="wp-image-1156"/><figcaption>A panorama from partway up the pass.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I certainly was slowing down as I got higher but little by little I was still making progress. One foot in front of the other and many breaths in between, took me closer and closer to my destination. The climb became steeper again. The trail was cut into a nearly vertical hillside and made its way up with switchback after switchback.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I had to stop <g class="gr_ gr_4 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-ins replaceWithoutSep" id="4" data-gr-id="4">again</g> and again, breathing seemed more difficult than it ought to have been after having spent so many days acclimating to this height. I took the rests I needed and each time heaved myself back upright to continue my slow pace ever upward.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1157} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181022_094452-1024x576.jpg" alt="And yet another pretty photo of Goyko Lake and Everest." class="wp-image-1157"/><figcaption>And yet another pretty photo of Goyko Lake and Everest.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I arrived at the top suddenly. After a right-hand <g class="gr_ gr_6 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-ins replaceWithoutSep" id="6" data-gr-id="6">switchback</g> a vertical stone wall on my left blocked my view of what was above. As I moved forward the stone wall grew shorter. Reaching what had appeared to be another switchback I turned left and there were the prayer flags at the summit right in front of me.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I dropped my back and set about taking photos. The top of Renjo La has a fun block of stone to scramble up and I made my way to the top of it. Eating the celebratory candy bars I had brought and taking a few selfies to commemorate this moment.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1158} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181022_095243-1024x576.jpg" alt="Third high pass!" class="wp-image-1158"/><figcaption>Third high pass!</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>When I climbed back down the block I happened upon some other friends I had encountered several times on the trail before. They had affectionately become known as the Israelis to us as we had passed each other regularly on the trail before but always seemed to be staying at different lodges.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1159} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181022_101316-1024x576.jpg" alt="And ok, here's my last photo of Gokyo Lake and Everest. But it's my favorite." class="wp-image-1159"/><figcaption>Ok, here's my last photo of Gokyo Lake and Everest. But it's my favorite.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":1160} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181022_101321-1024x576.jpg" alt="Porters at the top of Renjo La. Looking towards Cho Oyu, but I don't think that is the actual summit in the background." class="wp-image-1160"/><figcaption>Porters at the top of Renjo La. Looking towards Cho Oyu, but I don't think that is the actual summit in the background.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>We talked for a short while and then they decided to climb the summit block as I headed back to shoulder my pack and head down the other side. The way down the pass was comprised of the now familiar stone steps and I made short work of them cruising down toward thicker air and the lake I'd seen from the summit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1161} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181022_101518-1024x576.jpg" alt="Heading up the pass from the other direction." class="wp-image-1161"/><figcaption>Heading up the pass from the other direction.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>After reaching the lake the trail leveled out quite a bit and I kept on going at a fast pace unsure of how far I had left to go that day and eager to get there. The landscape continued to become more interesting as I wound my way down the valley. A confluence of streams came into view crossing a large flat sandy patch and proceeded to drop off what looked like the edge of a cliff from my vantage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1165} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181022_101809-1024x768.jpg" alt="A pretty lake on the west side of Renjo La." class="wp-image-1165"/><figcaption>A pretty lake on the west side of Renjo La.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The trail took me right through the sandy area and to the edge of the 'cliff' where I struggled down a steep loose section of trail until it sorted itself out and got back to a reasonable grade. I descended long enough to have to rest my knees a couple of times before the village of Lungdhen came into sight below me.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1162} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03197-1024x680.jpg" alt="All the streams flow through here." class="wp-image-1162"/><figcaption>All the streams flow through here.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Lungdhen had been where I planned to stop for the night. I checked the time and realized it was still only around noon. Despite how slow my pace felt going up the pass I had made good time. I made my way down the last stretch to the village and found somewhere to stop for lunch. I figured I would get some food, look at my map, and then decide whether to stay for the night or continue on.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1163} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03203-1024x768.jpg" alt="A remnant somewhere above Lungdhen." class="wp-image-1163"/><figcaption>A remnant somewhere above Lungdhen.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I wound up meeting another American and talked with him over lunch. Their group was headed up from the other direction and they were looking forward to at least two pass crossings and hoping to make the third if they could fit it in. I didn't mention where I had just come from until they asked about it, near the end of our conversation. I can only hope my grizzled appearance didn't dissuade them. By now I hadn't shaven in three weeks and must have looked exhausted after my <g class="gr_ gr_16 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar multiReplace" id="16" data-gr-id="16">mornings</g> efforts. I assured them it was all worthwhile though.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1164} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03204-1024x768.jpg" alt="Yak yak yak." class="wp-image-1164"/><figcaption>Yak yak yak.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>My lunch <g class="gr_ gr_3 gr-alert gr_gramm gr_inline_cards gr_disable_anim_appear Grammar multiReplace" id="3" data-gr-id="3">eaten</g>,and with plenty of light left in the day, I decided to push on a bit further. It looked like there was another village not too far ahead and my legs had a little walking left in them. Once again I shouldered my pack, said goodbye, and headed out the door.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1166} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03207-1024x768.jpg" alt="This river had a great light blue tint. Might have just been flowing ice..." class="wp-image-1166"/><figcaption>This river had a great light blue tint. Might have just been flowing ice...</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The trail was easy for a ways, too easy, I kept going for quite a while before checking my map and realized I had walked straight past where I had thought I might stop for the night. It had only been a few dwellings and I was too wrapped up in my thoughts to notice if there was even a lodge.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>By now my legs were warmed up again anyways and I didn't feel like sitting around on my own for the afternoon so I kept on walking. All the way to what had been my destination for the next day. I climbed a small hill and found the village of Thame below me that evening around five o'clock.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1167} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03213-1024x681.jpg" alt="Yak yak yak" class="wp-image-1167"/><figcaption>Yak yak yak</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>It turned out going downhill was much easier, despite how tired my legs had felt before. I headed into town and found an inexpensive lodge for the night. It had been a long day. I covered around thirteen miles climbing 2100 feet from Gokyo to the top of Renjo La and then 5200 feet from there to Thame.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1168} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03215-1024x680.jpg" alt="The trail ahead disappearing around the bend." class="wp-image-1168"/><figcaption>The trail ahead disappearing around the bend.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I hadn't given my body any rest but boy did it feel good to be back down around 14,300 feet. I wasn't out of the woods yet but it was definitely easier to breath. It was a bit lonely that evening after leaving the rest of my friends behind in Gokyo. Luckily a group from Thailand showed up who <g class="gr_ gr_103 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar multiReplace" id="103" data-gr-id="103">were</g> friendly and also overjoyed at having just crossed their final pass.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1169} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181022_141629-1024x768.jpg" alt="I assume these were for sale. No one was around when I walked by." class="wp-image-1169"/><figcaption>I assume these were for sale. No one was around when I walked by.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>They had managed to cross all three passes as well. Their group had started out several people larger but none of them had previous experience in the mountains and they lost a few along the way between altitude sickness and exhaustion. Four of them, though, had made it the whole way in large part thanks to the help of a good guide and porters. They were still in good spirits, but very ready to get out of the mountains and back home by now.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1171} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03223-1024x680.jpg" alt="An interesting spot to leave your merchandise." class="wp-image-1171"/><figcaption>An interesting spot to leave your merchandise.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>They told me a bit about Thailand and they already knew a bit about America so we talked for a while and congratulated each other on our accomplishments before heading off to bed. As I laid down to sleep the reality began to set in. I had made it. A goal began planning for months ago had been accomplished and all I had to do now was get out of the mountains and celebrate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1170} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03237-1024x768.jpg" alt="The view when I reached Thame." class="wp-image-1170"/><figcaption>The view when I reached Thame.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The relief I felt was mixed with a strange sadness. Nostalgia for the places I had been and the people I had interacted with only days before overwhelmed me but I was too tired to dwell on the feeling for long.</p>
+<!-- /wp:paragraph -->

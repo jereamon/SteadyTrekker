@@ -1,0 +1,58 @@
+Title: Three High Passes Trek Pt - 10
+Date: 2018-11-15 09:00:58
+PostImage: article_images/default-post-thumbnail.jpg
+Status: draft
+
+<p>From Dingboche we would head to Chukhung. The last village before heading over the first high pass. On my original itinerary, I had written in several days for Chukhung with two side trips and a rest day. I had changed that plan a bit though. Wanting to make progress faster I decided to skip one of the side trips and the rest day. We would hike Chukhung Ri, a nearby 18,196-foot peak, one day and then cross Kongma La, the first high pass, at 18,136 feet the next. The trek from Dingboche to Chukhung is a reasonably easy one. A short 2.8-mile walk that takes you from 14,268 feet up to 15,518 feet. A gradual climb with no descending along the way and the views only get better as you go. Compared to our previous days this was a walk in the park. I found a lovely place to stop for tea, the only building I saw along the way for that matter, and got comfortable for a bit while soaking in the fantastic sights and thin mountain air.</p>
+
+<figure><img class="size-large wp-image-1021" src="/images/article_images/2018/11/DSC02915-1024x768.jpg" alt="Looking East on the way to Chukhung. I've forgotten the name of the glacier behind me." /><figcaption>Looking East on the way to Chukhung. I've forgotten the name of the glacier behind me.</figcaption></figure>
+
+<p>A 50 rupee cup of milk tea later and I was back on my way, making short work of the final stretch to Chukhung I quickly found us a nice room and ran down to the river to do some laundry. My clothes were filthy and at this point, I figured any rinse would clean them up a bit. It turned out to be some of the coldest water I've ever felt. A creek flowing by with ice lining the banks despite the relatively warm, sunny morning. I soaked each piece of laundry, briefly scrubbed each on a rock, gave them a quick rinse, and tried to ring them out but I had to take a break because I couldn’t feel my hands. I dried them off a bit and put them in my pockets but between the water and the wind blowing through there was little chance of warming them up where I was. I did my best to grip my clothes with stiff fingers, rung them out a bit more and ran back the way I'd come to lay them out to dry.</p>
+
+<figure><img class="size-large wp-image-1038" src="/images/article_images/2018/11/20181015_105358-768x1024.jpg" alt="The creek I did my laundry in." /><figcaption>The creek I did my laundry in.</figcaption></figure>
+
+<p>There was a wonderful little courtyard space between the rooms and dining area at our lodge where the wind was blocked but the sun was not. I laid out my damp clothes on the hot stones and met Erin and Jess. They were with the other Canadians I had met on Nangkartshang the day before. They had one friend who would be summiting and returning from Island Peak that day, and another sick friend still in Dingboche who Jess would be returning to that afternoon.</p>
+
+<br />
+
+<p>For the time being, they planned to cross Kongma La the next day. So, while I was glad to meet other trekkers going the same way I didn't expect to see that much more of them. I went inside and forty minutes later my clothes had warmed and dried even before my hands had fully recovered. I had been concerned that by doing laundry I would be left with damp clothes in my bags for days. I savored the subsequent relief over another cup of tea and spent the rest of the afternoon reading in our warm lodge dining room.</p>
+
+<br />
+
+<p>That evening we had dinner and hung out with new friends. Kieran, Connor, Shondra, and Erin from Canada. And Trevor, from Alaska, who I'd met the day before on Nangkartshang as well. Shondra had been the friend summiting Island Peak and while she was successful and made the summit she was also sick and exhausted. They all decided to take the next day as a rest day and cross Kongma La the day after. Suddenly we were all on the same schedule. We spend the night having too much fun playing an unnamed card game. Lying and bluffing to figure out who was good, who was bad, and who had no clue what was going on. A lighthearted night was just what I needed to take my mind off my weary body and the serious nature of the endeavors we would undertake in the next few days. I went to bed in a great mood feeling ready for what was to come and reassured knowing we would have familiar faces making the difficult pass crossing with us.</p>
+
+<figure><img class="size-large wp-image-1022" src="/images/article_images/2018/11/DSC02933-1024x768.jpg" alt="Looking down on Chukhung"  /><figcaption>Looking down on Chukhung</figcaption></figure>
+
+<p>Erin, Trevor, Sanjey, and I set out early the next morning to attempt our own summit on Chukhung Ri. A short but steep hike straight up the 'hill' just north of the village of Chukhung. Climbing from 15,518 feet to 18,196 feet in just 1.7 miles this hike is really steep. Kieran and Connor had done it the day before though and told us the views were worth it so we were thoroughly motivated to make it to the top. The climb begins right out of town, a quick creek crossing, and then steep, dusty, switchbacking</p>
+
+<figure><img class="size-large wp-image-1023" src="/images/article_images/2018/11/DSC02935-1024x1024.jpg" alt="Lhotse on the way up Chukhung RI" /><figcaption>Lhotse on the way up Chukhung RI</figcaption></figure>
+
+<p>trails help you gain elevation quickly, though, as I've said before, our pace sure was slow. Barely moving at times just to get any air into our lungs. Our climb took us high above the village and it wasn't long before we crested a ridge, emerging onto lightly sloped alien plains. People had built dozens of cairns (balanced stacks of rocks) in the midst of this empty field and we marveled in their handiwork, the surrounding mountains, and the relative ease with which we were able to hike this less steep section.</p>
+
+<figure><img class="size-large wp-image-1039" src="/images/article_images/2018/11/20181016_092803-1024x768.jpg" alt="An arch someone built." /><figcaption>An arch someone built.</figcaption></figure>
+
+<p>Of course, flat terrain doesn't last long in Nepal. We crossed the plains and continued with the climb. Even steeper than before because our trail began to disregard the slope and head directly up it. We spread out a bit on this section but everyone kept moving. Partway up this hill, another hiker began catching up to us. Zach was from New York but had actually come out to Washington to do a mountain climbing training course on Mt.Rainier. We got to talking and hiked our way up to the next ridge together where we stopped for a break and admired the plethora of cairns that had been built here too. Someone had even taken the time to put together a small arch from stacked stones. As we continued on from here the trail became less obvious. We found ourselves on steep rock doing a bit of scrambling as we made our way ever closer to the summit.</p>
+
+<figure><img class="size-large wp-image-1040" src="/images/article_images/2018/11/20181016_091031-1024x768.jpg" alt="Looking southeast on the way up Chukhung Ri" /><figcaption>Looking southeast on the way up Chukhung Ri</figcaption></figure>
+
+<p>We had dropped slightly off the side of the ridge as we climbed and had to traverse a few narrow paths with near-vertical rock above and below. Our final hurdle was a scree filled chute the bottom of which dropped of a small cliff. It wasn't particularly difficult to ascend but felt especially dangerous between the exposure and knowing how far from help we were. We made our way up and out as rapidly and safely as possible and sitting not too far above, now in sight, was the summit.</p>
+
+<br />
+
+<p>Marked, as all summits in Nepal seem to be, with prayer flags. We weren't far off now and made the last scrambled pitch as fast as our lungs would allow. The top was surreal. We had been seeing great views the whole way up but suddenly it felt as though we were really at the base of Lhotse. And it looked massive. One massive face rising up inexorably to an endless wall of mountains including one of the highest in the world.</p>
+
+<figure><img class="wp-image-1041 size-large" src="/images/article_images/2018/11/20181016_102039-1024x768.jpg" alt="Me on top of Chukhung Ri. Lhote to the right of me, Nuptse to the left." /><figcaption>Me on top of Chukhung Ri. Lhote to the right of me, Nuptse to the left.</figcaption></figure>
+
+<p>Zach and I spent five or ten minutes there when Erin and Trevor arrived and we all celebrated together taking photos of each other and reveling in our accomplishment and the exhilaration it provided. We were now around 6000 feet higher than I had ever been before coming to Nepal. All of us had safely made it above 18,000 on our own two feet. We spent as long as we could there but headaches were setting in and it wasn't exactly warm.</p>
+
+<br />
+
+<p>We hadn't seen Sanjey in quite some time but weren't worried about him yet either. There were plenty of other people making the climb so we knew to wouldn’t be entirely on his own. Our descent went smoothly. We began following the way we had come up but quickly discovered that just on the opposite side of the ridge there was a much less steep, better trail.</p>
+
+<figure><img class="wp-image-1043 size-large" src="/images/article_images/2018/11/20181016_101554-1-1024x1024.jpg" alt="Zach at the top of Chukhung Ri" /><figcaption>Zach at the top of Chukhung Ri. He got caught in a panorama he didn't know I was taking.</figcaption></figure>
+
+<p>It was here that we ran into Sanjey. With only twenty or so minutes left in his grueling climb. I was still feeling pretty good and offered to turn around to return with him. The others continued down and the two of us turned away to climb, climb, climb. Unfortunately it was only a few minutes after this that I felt a headache coming on as well. I hiked up with him for a few minutes before deciding to turn back for fear that it may worsen quickly and left him to finish the climb on his own.</p>
+
+<br />
+
+<p>Going down is so easy in comparison at this altitude. I prefer ascending, but it's an exceptional feeling when you head down the hill and can move quickly and breath just fine. I nearly ran down the hill overjoyed to have made it and now be done. I made it back to Chukhung, got lunch and settled in for the afternoon to rest for the next day and our big push over Kongma La, the first of the three high passes.</p>

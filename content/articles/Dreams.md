@@ -1,0 +1,8 @@
+Title: Dreams
+Date: 2018-04-06 23:34:59
+PostImage: article_images/default-post-thumbnail.jpg
+Status: draft
+
+<img class="alignnone" src="/images/article_images/2018/04/dino-reichmuth-147745-unsplash-683x1024.jpg" sizes="(max-width: 683px) 100vw, 683px" src="/static/images/2018/04/dino-reichmuth-147745-unsplash-683x1024.jpg 683w, http://www.jereamon.com/wp-content/uploads/2018/04/dino-reichmuth-147745-unsplash-200x300.jpg 200w, http://www.jereamon.com/wp-content/uploads/2018/04/dino-reichmuth-147745-unsplash-768x1151.jpg 768w" alt="Shining a flashlight into a starry night sky." width="683" height="1024" />
+
+Do you ever have those dreams that are just too good to be true? You wake up and your web of connectivity and wholeness tatters and fades with the realization that you’re right back where you’ve always been. It’s such a mixed feeling, heavily tinged with disappointment as you linger at the edge of two very different existences. I don’t know about you, but the dreams that leave me feeling disappointed when I have to wake up from them are usually fairly simple. Some sort of fun adventure, with good food, and an overwhelming sense of connectedness with the people around me. I think it’s easy to feel isolated in a time when we have more ways to connect than ever. And easier to isolate yourself too. We can sit at home comparing our lives to others from a long ways away, and all without getting to know who that person really is. For me, I think it’s time to force a change. I don’t expect to replicate a dream, but it seems important to regain those meaningful in-person interactions.

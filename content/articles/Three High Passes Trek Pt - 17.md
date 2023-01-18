@@ -1,0 +1,248 @@
+Title: Three High Passes Trek Pt - 17
+Date: 2018-12-15 09:45:37
+PostImage: article_images/2018/12/20181024_071613-1024x768.jpg/
+Status: draft
+
+<!-- wp:paragraph -->
+<p>After my long day crossing Renjo La and walking down to Thame I was now only five and a half miles from Namche Bazaar. Since most of the way would be downhill it would be <g class="gr_ gr_41 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-del replaceWithoutSep" id="41" data-gr-id="41">an easy</g>day. I started out my morning much the same way as I had for the last few weeks. Up around seven, packed my things, breakfast with tea, and out the door to get to my next destination.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1170} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03237-1024x768.jpg" alt="The view from Thame." class="wp-image-1170"/><figcaption>The view from Thame.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I admired the views from Thame one last time and then headed down the trail towards Namche. Well almost. First I got lost crossing a bridge I shouldn't have and watched as the trail I was following dwindle away to nothing. I backtracked and found the right path just as the owners of the lodge I had stayed at walked past.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1178} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03240-1024x768.jpg" alt="On the way to Namche" class="wp-image-1178"/><figcaption>On the way to Namche</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>They gave me a wave and kept going down the trail to Namche. I set off behind them but couldn't keep pace since they were walking with no weight for the time being. Further along, I took a turn that was recommended by my mapping app on my phone. This route had me climbing and descending much more than the main trail, visible across the valley, seemed to. But hey, maybe it was a few tenths of a mile shorter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1179} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181023_094341-1024x576.jpg" alt="" class="wp-image-1179"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>A steep section led down to a few dwellings and then crossed the river once more to climb back up to the main trail. Somehow I had gotten ahead of the lodge owners who passed me earlier. They caught up again but turned off as we reached a y where they headed uphill to Syangboche and I continued to Namche.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1181} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03245-1024x680.jpg" alt="" class="wp-image-1181"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I laughed inwardly at my faulty but <g class="gr_ gr_32 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="32" data-gr-id="32">functio</g>nal navigational abilities and covered the last stretch back to Namche. One last corner and suddenly I was looking back down on the town I had left two weeks before. It felt strange to be back somewhere familiar after wandering my way through so many new places.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1184} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03247-1024x680.jpg" alt="The outskirts of Namche" class="wp-image-1184"/><figcaption>The outskirts of Namche</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>After trying and failing to get a room at several different lodges I changed my plans and decided to get out of Namche and find somewhere else to stay for the night. First things first though. Find lunch and purchase a souvenir I had planned on getting if the trek went well. A three high passes patch that had the names of the passes and some nice mountains embroidered on it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1182} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181023_111107-1024x1024.jpg" alt="My Three High Passes Patch" class="wp-image-1182"/><figcaption>My Three High Passes Patch</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I made short work of these errands, bought a pack of <g class="gr_ gr_3 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="3" data-gr-id="3">oreos</g> on my way out of town and wandered on down to the police checkpoint and long descent that would follow. After a fifteen minute wait, the officer working at the time told me he didn't need to see my permit on the way down. So, off I went.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1183} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181023_112139-1024x576.jpg" alt="Last view of Namche Bazaar" class="wp-image-1183"/><figcaption>Last view of Namche Bazaar</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>A couple thousand feet and one high bridge later I found myself back in the familiar riverbed I had walked up just a couple of weeks prior. It felt strange but gratifying to be retracing my steps and it didn't take me long to get to Jorsalle after that.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1185} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03262-1024x680.jpg" alt="Yaks crossing the high bridge" class="wp-image-1185"/><figcaption>Yaks crossing the high bridge</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":1186} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03255-1024x680.jpg" alt="" class="wp-image-1186"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Jorsalle is located just inside the entrance to Sagarmatha National Park. When we passed it on our way up the village was crowded with people stopped for lunch.Most people go from Phakding to Namche in one day and with Jorsalle being between the two not many<g class="gr_ gr_63 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar multiReplace" id="63" data-gr-id="63">stay</g>overnight there. As I had suspected it was easy to find a room and it turned out I was the only one staying in the lodge I chose.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1187} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181023_132125-1024x768.jpg" alt="A lower bridge on the way to Jorsalle" class="wp-image-1187"/><figcaption>A lower bridge on the way to Jorsalle</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I spent the evening enjoying the company of the lodge caretaker who was eager to practice his English and happy to tell me about the Solukhumbu region. He lived a few days walk away and spent the busy seasons here in Jorsalle operating the lodge for the owner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1188} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181023_132652-1024x768.jpg" alt="Yak yak yak" class="wp-image-1188"/><figcaption>Yak yak yak</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>A quiet night was just what I needed. I slept well and felt ready to go the next morning. After another tasty <g class="gr_ gr_7 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-ins replaceWithoutSep" id="7" data-gr-id="7">breakfast</g> I set off again, unsure of where my day would take me. Based on the distance I could easily reach Lukla, however, after the last two long days of trekking that would put me there a full two days early for my flight.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1189} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03272-1024x681.jpg" alt="Looking out my window at Jorsalle" class="wp-image-1189"/><figcaption>Looking out my window at Jorsalle</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":1194} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181024_071613-1024x768.jpg" alt="Some of the final mountain views" class="wp-image-1194"/><figcaption>Some of the final mountain views</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I figured I would start walking and see how far I got, hoping I would find somewhere nice to stay in between. Exiting the National Park was much quicker than entering it had been. There were no other trekkers there that morning and all I needed was a quick stamp from the police officer on duty.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1192} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181024_071604-1024x768.jpg" alt="Leaving Sagarmatha National Park" class="wp-image-1192"/><figcaption>Leaving Sagarmatha National Park</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":1193} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181024_071753-1024x576.jpg" alt="The fee pay area for the national park was empty this early in the morning." class="wp-image-1193"/><figcaption>The fee pay area for the national park was empty this early in the morning.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The walking went quickly with most of it being downhill. Phakding came and went and I just kept on going. When a familiar bridge came into sight I realized that I had nearly reached Cheplung where the trail y's and you either head to Lukla or back towards Phaplu, the way Sanjey and I had trekked up from.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1195} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181024_072911.jpg?fit=1024%2C768" alt="" class="wp-image-1195"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>It was still early. Maybe eleven o'clock at that point and from there it looked like only a few more miles to Lukla. I had yet to realize those few more miles were all uphill, but I figured why not get to Lukla. I could ask if there were flights going out and whether or not I could get on one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1191} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181024_071408.jpg?fit=1024%2C576" alt="" class="wp-image-1191"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>A couple hours later, covered in sweat I had climbed up five hundred feet and arrived at the outskirts of town. Wandering through to the other side of town I found the Lukla airport and the office for Sita Airlines who my ticket was booked through.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1190} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181024_070952.jpg?fit=1024%2C768" alt="" class="wp-image-1190"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The employees working in the office assured me that I could get a flight out that same day. They would reassign my ticket and put me on a plane as soon as possible. It had been a few weeks since I had dealt with any flights in Nepal and for a moment I let hope get the best of me and let myself believe I would be flying to Kathmanduin a couple hours.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1197} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181024_092304-1024x576.jpg" alt="Obligatory bakery stop along the way." class="wp-image-1197"/><figcaption>Obligatory bakery stop along the way.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>That belief changed quickly. At first glancethe airport didn't seem all that busy. But when I headed through security and into the waiting area was when my dreams were shattered. The place was packed full of people and from what I could discern flights had come and gone earlier but weren't any longer because of high wind. We all sat watching Bear Grylls on a small television and kept an eye on the prayer flags outside, hoping they would stop flapping and settle down.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1199} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/DSC03271-1024x680.jpg" alt="Yak yak yak" class="wp-image-1199"/><figcaption>Yak yak yak</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Around two hours later an airport employee roaming around the waiting area let me know my flight had been cancelled for the day. I went back through security and out onto the tarmac to collect my checked bag. After seeing the number of people in the waiting room I had set my hopes low and was more or less expecting this outcome.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:video {"id":1200} -->
+<figure class="wp-block-video"><video controls src="/images/article_images/2018/12/plane-landing-Lukla_Medium.mp4"></video></figure>
+<!-- /wp:video -->
+
+<!-- wp:paragraph -->
+<p>The next stop was a lodge right across the street that just happened to have open rooms still. I got my key and headed back to the Sita Airlines office to try to get a ticket for the next day. They let me know that all the seats to Kathmandu were taken the next day and the only flight they could get me on was to Ramechhap. It would cost around forty dollars less and was only a four or five hour bus ride from Kathmandu. Tempting.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I said I would do it, but planned to show up to the airport early the next morning and secure a seat to Kathmandu before they were all taken. So off to find food and spend a comfortable evening in my lodge talking with several other people who had recently finished their treks as well.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1196} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181025_065250-1024x576.jpg" alt="Early morning at the Lukla airport" class="wp-image-1196"/><figcaption>Early morning at the Lukla airport</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The next morning I was up early. Not that early, up at six and headed to the airport just after seven. The employees at the office yesterday had said to get there at eight for the Ramechhap flight so I hoped I would be there early enough to skip that and get on a Kathmandu flight instead.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When I entered the airport it was madness. Packed full of tourists, many of whom had apparently missed previous flights and were back to try again. I jumped in line and when I eventually pushed my way to the front asked about flights to Kathmandu. Unfortunately, one of the office employees from the day before was there and recognized me.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>He told me there were no spots to Kathmandu and that they would be organizing a bus to Kathmandu from Ramechhap if I would accept that flight. I made a snap decision to go along with it and received my boarding pass to Ramechhap along with a few other's who must have figured saving some money and going on an 'off the beaten track' adventure didn't sound so bad.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1198} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181025_065626.jpg?fit=1024%2C576" alt="" class="wp-image-1198"/><figcaption>I have fewer and fewer pictures after this point.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>We went downstairs to wait and hope we got on a plane sometime before three pm. The weather was good that morning and planes were coming and going much faster thanI had expected for such a small airport. Only twenty or so minutes later someone began shouting that Ramechhap was boarding. I pushed through the crowd to the door, showed my boarding pass and was ushered out onto the tarmac where most of the other flight passengers were already waiting.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They hurried us onto the plane, taxied out to the runway, and before I knew it we were accelerating down the 11.7% gradient runway and into the air. Our flight was a short one, landing somewhere on the outskirts of a small town in the middle of nowhere.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1202} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181025_072027-1024x576.jpg" alt="Ramechhap air traffic control tower" class="wp-image-1202"/><figcaption>Ramechhap air traffic control tower</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>We stood around for a while watching <g class="gr_ gr_9 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling multiReplace" id="9" data-gr-id="9">minibuses</g> show up that were all booked for other airlines. It wasn't until other passengers who flew with us began boarding a jeep that their guide had arranged that the rest of us began questioning whether or not a bus was coming for us.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It took some asking around but we found out that no, there was no bus for us. Some more asking around and we found someone who could call a private jeep for us but it would cost 1500 rupees per person. Not terribly expensive, under fifteen dollars, but I was annoyed with the runaround and during our discussion I had heard one man mention a bus stop down the road. I latched onto the bus stop idea and began asking everyone about it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1201} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181025_073114.jpg?fit=1024%2C576" alt="" class="wp-image-1201"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Several other people confirmed that there was a bus stop and one said the price to Kathmandu would be 500 rupees. The other passengers of my flight didn't want to bother and were willing to take the jeep, I said goodbye and set off walking down the road hoping there would actually be a bus stop. I asked several people along the way and they all pointed further down the road.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I was just beginning to wonder if they were all in on a plot to send me off on a wild goose chase when I came around the corner of a large building and several buses came into sight. I started pointing and asking everyone in sight if the buses went to Kathmandu. One man took pity on me and brought me over to the table where you pay, helped me get a ticket to Kathmandu and set me up with a window seat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1203} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181025_093544-1024x576.jpg" alt="This is the only photo I took during my bus ride. Right out the window on our way to Kathmandu." class="wp-image-1203"/><figcaption>This is the only photo I took during my bus ride. Right out the window on our way to Kathmandu.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>After thanking him repeatedly and waiting for the other seats to fill I was on my way. And by on my <g class="gr_ gr_5 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-ins replaceWithoutSep" id="5" data-gr-id="5">way</g> I mean undertaking the scariest bus ride I've ever been on. The driver wasn't going too fast, but as we climbed up and down through the hills, brakes squealing, on winding roads with sharp corners, no guardrails, and near vertical drops of several hundred feet in a <g class="gr_ gr_8 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling multiReplace" id="8" data-gr-id="8">full size</g> bus I found myself hanging on for dear life.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On the other hand, it turned out that this local bus stopped at a great place to eat. Nothing more than a dirty, roadside restaurant with dal <g class="gr_ gr_8 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling" id="8" data-gr-id="8">bhat</g> on demand, but this dal <g class="gr_ gr_7 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="7" data-gr-id="7">bhat</g> was delicious. I ate my second helping and made it back to the bus just as the driver was going to leave. The rest of the ride was less eventful. I settled in and began to trust the driver and fear for my life a bit less.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1204} -->
+<figure class="wp-block-image"><img src="/images/article_images/2018/12/20181025_150507-1024x768.jpg" alt="Back to Kathmandu with the Nepali flag flying high." class="wp-image-1204"/><figcaption>Back to Kathmandu with the Nepali flag flying high.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Before I knew it we were back in Kathmandu. I walked a couple miles back to Thamel and found the hostel I had booked for the night. Just like that my trek was over. I was relieved, sad, and still couldn't believe it had taken place at all. I would spend the rest of my stay in Nepal relaxing in Pokhara and trying to see wildlife in Chitwan National Park, but the real reason I had traveled for forty hours to a country halfway across the world had come and gone in the blink of an eye. I had finally visited the Himalayas and was already thinking about where I would go when I returned.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For anyone reading this, thank you for following along! For anyone I met along the way, thank you for being there! This was one experience I'll never forget. If you're in love with mountains I can't recommend Nepal enough. The environment, people, culture, and especially the food will have you thinking about your return trip before you've even left.</p>
+<!-- /wp:paragraph -->

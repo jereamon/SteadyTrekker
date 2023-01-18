@@ -1,0 +1,80 @@
+Title: Three High Passes Trek Pt - 12
+Date: 2018-11-23 11:00:17
+PostImage: article_images/default-post-thumbnail.jpg
+Status: draft
+
+<p>After crossing the first high pass, Khongma La, a week of rest would have been nice. Instead, we were determined to keep moving. Today was Sanjey's birthday and he was hoping to make it to Everest Base Camp for it. As well prices in Lobuche were high and we knew they would only be higher once we made our way up to Gorak Shep. As well as high prices, we discovered that with so many tourists coming through these main villages the lodge owners didn't really care whether you stayed with them or not. There would always be someone else to take your place.</p>
+
+<br />
+
+<p>From my experience, this seems to drive quality down. The owners of the small lodges that don't see many guests are so welcoming and happy to have you. In turn, they seem to take more pride in comfortable, clean rooms and bathrooms and are able to be friendlier with their guests too. I had been spoiled by the lodges at the start of our trek when we were way off the beaten path. Now, weary, homesick, and frustrated with people telling me whatever it would take to get my money I was ready to move quickly and get back to less traveled trails.</p>
+
+<figure><img class="size-large wp-image-1076" src="/images/article_images/2018/11/DSC03028-1024x768.jpg" alt="Gorak Shep" /><figcaption>Gorak Shep</figcaption></figure>
+
+<p>We didn't rush too much that morning but still hit the trail pretty early. The hike to Gorak Shep is only 2.7 miles with around 900 feet of elevation gain. Not a difficult hike if it wasn't for the fact that the destination resides at nearly 17,000 feet. Luckily, we were well acclimatized by this point because we had big plans for the day. There were two important hikes to be done from Gorak Shep. The hike to Everest Base Camp and the climb up Kalar Patar. To get into town and back out as quickly as possible the plan was to go from Lobuche to Gorak Shep, find rooms and drop packs, hike to Everest Base Camp that afternoon, climb Kala Patar for sunrise the next morning and then head back down past Lobuche to Dzonghla taking us off the main EBC trail and setting us up for the next high pass crossing. Whew.</p>
+
+<figure><img class="size-large wp-image-1077" src="/images/article_images/2018/11/20181018_092427-1024x1024.jpg" alt="Gorak Shep, Kala Patar, and Pumori behind it all." /><figcaption>Gorak Shep, Kala Patar, and Pumori behind it all.</figcaption></figure>
+
+<p>Anyways, we set out from Lobuche at an easy pace covering a long flat stretch quickly, catching up to large groups of other trekkers at the base of the first real incline where the going got a bit tough. In the blink of an eye, we went from easy walking up a slight incline to climbing a steep hill and then winding our way through upturned boulders and stream beds. Sore legs eventually warmed up and I fell into my usual rhythm of passing group after group while they toiled slowly away in long lines of misery.</p>
+
+<br />
+
+<p>I climbed up, down, and around, enjoying views of the Khumbu glacier from above and wondering with every step how there could possibly be a village out here. Time and distance melted away and it didn't feel long before I rounded a corner and an unexpected sight came into view below me. Teahouses in a small valley. I immediately spotted Kala Patar looming above and knew I had made it to the village of Gorak Shep.</p>
+
+<figure><img class="size-large wp-image-1078" src="/images/article_images/2018/11/DSC03035-1024x1024.jpg" alt="Connor hiking towards Pumori" /><figcaption>Connor hiking towards Pumori</figcaption></figure>
+
+<p>I bought a room voucher at the booth on the way into town and made the descent into town to find a lodge for the night. I had been told to expect to sleep on dining room floors because all the lodges would be so full. This turned out to not be the case. I quickly found a room and when Trevor, Connor, and Erin made it into town they quickly found rooms for everyone else as well. No big deal.</p>
+
+<br/>
+
+<p>With that done we settled in to get some lunch and wait for the others to arrive. Shondra and Sophia were recovering from illness and unfortunately, Kieran had begun feeling the effects of the altitude on the way to Gorak Shep. Somehow, they all made it to town and Jess, being a nurse, gave Kieran something to settle his stomach and help him sleep. The rest of us ate and prepared to hike to the base camp.</p>
+
+<figure><img class="size-large wp-image-1079" src="/images/article_images/2018/11/DSC03042-1024x768.jpg" alt="Everest view. Peeking out in the middle there." /><figcaption>Everest view. Peeking out in the middle there.</figcaption></figure>
+
+
+
+<figure><img class="wp-image-1080 size-large" src="/images/article_images/2018/11/DSC03043-1024x768.jpg" alt="Everest view zoomed in."  /> <figcaption>Everest view zoomed in.</figcaption></figure>
+
+<p>Compared to everything else we had done the hike from Gorak Shep to Everest Base Camp was a walk in the park. The trail is mostly flat, following the ridge that marks the border of the Khumbu Glacier. We caught glimpses of Everest along the way and stopped for pictures knowing we wouldn't be able to see it from Base Camp itself. As well, the nearby mountain Pumori found a place in my heart. I had admired it from a distance but now being so close to it I marveled at its majesty and dreamed of returning to stand on its 23,494-foot peak.</p>
+
+<br />
+
+<p>Tired legs carried us onward and in no time we reached the turn to head down into the glacier towards the marker for base camp. We made it to the prayer flag laden stone sign marking the 2018 Everest Base Camp at the base of the Khumbu Icefall and rejoiced. Exhausted from all the distance we had covered and dealing with some unfortunate stomach cramps that had cropped up after lunch, I did my best to be excited. We took photos and I built a cairn out of large stones.</p>
+
+<figure><img class="size-large wp-image-1083" src="/images/article_images/2018/11/DSC03046-1024x768.jpg" alt="Arriving at base camp"  /><figcaption>Arriving at base camp</figcaption></figure>
+
+
+
+<figure><img class="size-large wp-image-1084" src="/images/article_images/2018/11/DSC03049-1024x680.jpg" alt="Random people at base camp"  /><figcaption>Random people at base camp. They pose well.</figcaption></figure>
+
+
+
+<figure><img class="size-large wp-image-1081" src="/images/article_images/2018/11/20181018_134818-768x1024.jpg" alt="Me at Everest Base Camp" /><figcaption>Me at Everest Base Camp</figcaption></figure>
+
+
+
+<figure><img class="size-large wp-image-1085" src="/images/article_images/2018/11/DSC03048-1024x768.jpg" alt="The Khumbu icefall in all its glory!" /><figcaption>The Khumbu icefall in all its glory!</figcaption></figure>
+
+<p>Before leaving we headed down to explore the icefall a bit. Wandering around amidst towering blocks trying to imagine how climbers could ever make their way through in the direction they needed to go. We climbed around a bit, broke off some icicles, and too soon it was getting late in the afternoon. Trevor and I headed back shortly before the others and as we got back to the base camp sign we ran into Sanjey coming up the trail. It was his birthday and he had opted to sleep in and leave Lobuche later that morning. We greeted him heartily with birthday wishes but didn't stick around that much longer being tired and ready for another long day to be at its end.</p>
+
+<br />
+
+<p>We made short work of the hike back to Gorak Shep descending the slightly downhill trail at full speed. At this point, you would think we would be used to the alien landscapes we had been living in but the scene encompassing this small village is really something else. On one side sits the village perched on a small rise in the midst of a tumultuous boulder-strewn landscape with the Khumbu Glacier flowing past on its east and Kalar Patar rising high above to the northwest.</p>
+
+<figure><img class="size-large wp-image-1086" src="/images/article_images/2018/11/20181018_150048-1024x768.jpg" alt="A rock balanced on an ice pillar" /><figcaption>Balanced rock</figcaption></figure>
+
+
+<figure><img class="size-large wp-image-1087" src="/images/article_images/2018/11/20181018_150640-1024x768.jpg" alt="Connor surveys the icefall from the top of his ice fortress."/><figcaption>Connor surveys the icefall from the top of his ice fortress.</figcaption></figure>
+
+<p>We returned to our respective lodges, having unintentionally gotten rooms at different ones this night, and I settled in for milk tea and another massive meal of dhal baht. The trip to Everest Base Camp had felt somewhat underwhelming to me. I was ecstatic to have reached this iconic goal but at the same time, it felt so wrong to turn around right there. I have minimal mountaineering experience but after summiting Mt.Adams and a few other peaks in the Cascades I've become hooked on getting to the top of things. The top of all the surrounding mountains still looked so far away from where we had stood but nevertheless, I felt my journey was unfinished by not having stood on top of any of them.</p>
+
+<figure><img class="size-large wp-image-1088" src="/images/article_images/2018/11/DSC03051-1024x768.jpg" alt="Looking back down at the base camp"  /><figcaption>Looking back down at the base camp</figcaption></figure>
+
+
+<figure><img class="size-large wp-image-1089" src="/images/article_images/2018/11/DSC03059-1024x768.jpg" alt="Trevor is nearly back to Gorak Shep" /><figcaption>Trevor is nearly back to Gorak Shep</figcaption></figure>
+
+<p>I resigned myself to this small disappointment and hoped that the climb up Kala Patar early the next morning would do something to assuage it. For the time being, I sat in a crowded teahouse filled with other intrepid explorers each on a journey of their own. I received the news from a woman whose uncle had been guiding in the region for thirty-some years that Khongma La was the hardest of the three passes. I took this to heart and allowed it to bolster my waning confidence.</p>
+
+<br />
+
+<p>The long days on the trail, at high altitude, in the midst of a foreign culture had worn me down and I found myself wondering whether I would have the strength, physically or mentally, to cross the other two passes. Fortunately, I had put myself in a situation where the only way out was to keep moving forward.</p>
