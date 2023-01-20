@@ -1,4 +1,4 @@
-/*#region Start Variables  */
+/*#region Variables  */
 :root {
   --dark-grey: #333333;
   --light-grey: #eeeeee;
@@ -24,7 +24,7 @@
   --home-post-margin: 15px;
 }
 
-/*#endregion End Variables  */
+/*#endregion Variables  */
 /*#region Start CSS Reset */
 html {
   box-sizing: border-box;
@@ -90,6 +90,8 @@ body {
   padding-top: var(--nav-height);
 }
 
+/*#region Mixins */
+/*#endregion Mixins */
 /*#region Nav */
 nav {
   background-color: var(--dark-grey);
@@ -165,6 +167,9 @@ nav ul li.open .burger::after {
     width: auto;
     transition: background-color 250ms;
   }
+  nav ul li:hover {
+    background-color: var(--blue);
+  }
   nav ul li.burger-container {
     display: none;
   }
@@ -174,11 +179,40 @@ nav ul li.open .burger::after {
   nav ul li:nth-child(2) {
     justify-self: start;
   }
-  nav ul li:hover {
-    background-color: var(--blue);
-  }
 }
 /*#endregion Nav */
+/*#region pagination */
+section#posts .paginator-outer {
+  border-top: var(--nav-border);
+  height: var(--nav-height);
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+section#posts .paginator-outer a {
+  display: block;
+  height: 100%;
+  max-width: var(--nav-height);
+  padding-left: 10px;
+  padding-right: 10px;
+  transition: background-color 250ms;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+section#posts .paginator-outer a:hover {
+  background-color: var(--blue);
+}
+section#posts .paginator-outer a.next-page {
+  margin-left: 10px;
+}
+section#posts .paginator-outer a.previous-page {
+  margin-right: 10px;
+}
+
+/*#endredion pagination */
 /*#region Home */
 section#home {
   align-items: center;
