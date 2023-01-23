@@ -1,3 +1,15 @@
+/*
+A few notes:
+Stuff in base.scss:
+  :root and its variables.
+  Css reset.
+  Mixins.
+
+Navigation -- for the nav bar and pagination
+Home       -- styles for index.html
+Article    -- styles for article.html
+
+*/
 /*#region Variables  */
 :root {
   --dark-grey: #333333;
@@ -55,6 +67,16 @@ figure {
   font-weight: normal;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--sans-serif-font);
+  margin-bottom: calc(var(--nav-height) / 2);
+}
+
 h1 {
   font-size: var(--header-size);
   font-family: var(--sans-serif-font);
@@ -63,7 +85,6 @@ h1 {
 
 h2 {
   font-size: var(--sub-header-size);
-  font-family: var(--serif-font);
 }
 
 p {
@@ -76,7 +97,6 @@ ul {
 }
 
 a {
-  display: block;
   text-decoration: none;
 }
 
@@ -192,7 +212,7 @@ section#posts .paginator-outer {
   width: 100%;
 }
 section#posts .paginator-outer a {
-  display: block;
+  color: var(--light-grey);
   height: 100%;
   max-width: var(--nav-height);
   padding-left: 10px;
@@ -229,6 +249,7 @@ section#home {
 }
 section#home div {
   background-color: var(--purple-low-opacity);
+  border-radius: 10px;
   padding: 5vh 15px;
 }
 section#home h1, section#home h2 {
@@ -238,6 +259,9 @@ section#home h1, section#home h2 {
 @media (min-width: 769px) {
   section#home {
     justify-content: center;
+  }
+  section#home h2 {
+    font-family: var(--serif-font);
   }
 }
 /*#endregion Home */
@@ -350,19 +374,44 @@ section#article-container div#article-content .entry-content {
 }
 section#article-container div#article-content .entry-content h1 {
   display: inline-block;
-  padding-bottom: calc(var(--nav-height) / 4);
+  margin-bottom: calc(var(--nav-height) / 4);
+  width: 100%;
 }
 section#article-container div#article-content .entry-content h1::after {
   border-bottom: solid 2px var(--brown);
   content: "";
   display: block;
-  max-width: calc(100vw - var(--nav-height));
-  width: 125%;
+  width: 100%;
   height: 1px;
+}
+section#article-container div#article-content .entry-content h1, section#article-container div#article-content .entry-content h2, section#article-container div#article-content .entry-content h3, section#article-container div#article-content .entry-content h4, section#article-container div#article-content .entry-content h5, section#article-container div#article-content .entry-content h6 {
+  text-align: center;
+}
+section#article-container div#article-content .entry-content h1:not(:first-child), section#article-container div#article-content .entry-content h2:not(:first-child), section#article-container div#article-content .entry-content h3:not(:first-child), section#article-container div#article-content .entry-content h4:not(:first-child), section#article-container div#article-content .entry-content h5:not(:first-child), section#article-container div#article-content .entry-content h6:not(:first-child) {
+  margin-top: var(--nav-height);
+}
+section#article-container div#article-content .entry-content h1:not(:first-child) {
+  margin-top: calc(var(--nav-height) * 2);
+}
+section#article-container div#article-content .entry-content img {
+  max-height: calc(90vh - var(--nav-height));
 }
 section#article-container div#article-content .entry-content p {
   line-height: 1.5em;
   max-width: 500px;
+}
+section#article-container div#article-content .entry-content p a {
+  color: white;
+  padding: 2px 5px 0px;
+  text-decoration: underline;
+  transition: color 200ms;
+  transition: background-color 250ms;
+}
+section#article-container div#article-content .entry-content p a:hover {
+  background-color: var(--blue);
+}
+section#article-container div#article-content .entry-content p a:hover {
+  color: var(--light-grey);
 }
 section#article-container div#article-content .entry-content p, section#article-container div#article-content .entry-content figure, section#article-container div#article-content .entry-content figcaption {
   padding-bottom: calc(var(--nav-height) / 4);
@@ -371,6 +420,30 @@ section#article-container div#article-content .entry-content p, section#article-
 section#article-container div#article-content .entry-content figcaption {
   background-color: var(--purple);
   text-align: center;
+}
+section#article-container div#article-content .entry-content ul {
+  list-style-type: circle;
+  list-style-position: inside;
+}
+section#article-container div#article-content .entry-content ul ul {
+  margin-bottom: calc(var(--nav-height) / 4);
+  margin-left: calc(var(--nav-height) / 2);
+  margin-top: calc(var(--nav-height) / 16);
+}
+section#article-container div#article-content .entry-content ul ul ul {
+  margin-bottom: calc(var(--nav-height) / 4);
+  margin-left: calc(var(--nav-height) / 2);
+  margin-top: calc(var(--nav-height) / 16);
+}
+section#article-container div#article-content .entry-content ul ul ul ul {
+  margin-bottom: calc(var(--nav-height) / 4);
+  margin-left: calc(var(--nav-height) / 2);
+  margin-top: calc(var(--nav-height) / 16);
+}
+section#article-container div#article-content .entry-content ul ul ul ul ul {
+  margin-bottom: calc(var(--nav-height) / 4);
+  margin-left: calc(var(--nav-height) / 2);
+  margin-top: calc(var(--nav-height) / 16);
 }
 
 @media (min-width: 475px) {

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-        <title>Steady Trekker - The test title</title>
+        <title>Steady Trekker - New Post Template</title>
       <meta charset="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta name="generator" content="Pelican" />
@@ -44,31 +44,32 @@
   <div id="article-content" class="body">
     <header>
       <h2 class="entry-title">
-        <a href="https://steadytrekker.com/drafts/the-test-title.html" rel="bookmark"
-          title="Permalink to The test title">The test title</a></h2>
+        <a href="https://steadytrekker.com/drafts/new-post-template.html" rel="bookmark"
+          title="Permalink to New Post Template">New Post Template</a></h2>
   
     </header>
     <footer class="post-info">
-      <time class="published" datetime="2019-12-30T23:18:45.391548-08:00">
-        Mon 30 December 2019
+      <time class="published" datetime="2023-01-21T08:36:00-08:00">
+        Published: Sat 21 January 2023
       </time>
     </footer><!-- /.post-info -->
     <div class="entry-content">
-      <hr>
-<p>id: 240
-id: 240
-post_title: The test title</p>
-<hr>
-<p>I am just a simple markdown file. Don't mind me.<br>
-I am new line</p>
-<p>img test ya'll</p>
-<p><img src="/images/article_images/the_sauciest_sauce.jpg"></p>
-<p>Ok, one image, now two.</p>
-<p><img alt="" src="/image_url_fo_sho.jpg">image_url_fo_sho.jpg)the_sauciest_sauce.jpg"&gt;</p>
-<p>Ok, one image, now two.</p>
-<p><img alt="" src="/image_url_fo_sho.jpg">image_url_fo_sho.jpg)</p>
+      
     </div><!-- /.entry-content -->
   </div>
 </section>
+
+<script>
+  const article = document.querySelector(".entry-content");
+
+  for (let i = 0; i < article.children.length; i++) {
+    let cur_el = article.children[i];
+    if (cur_el.nodeName === 'P' && cur_el.children.length > 0) {
+      if (cur_el.children[0].nodeName === 'IMG') {
+        cur_el.style.maxWidth = "100%";
+      }
+    }
+  }
+</script>
 </body>
 </html>

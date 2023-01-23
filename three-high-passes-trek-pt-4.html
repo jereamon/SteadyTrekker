@@ -7,7 +7,7 @@
       <meta name="generator" content="Pelican" />
 
         <link href="https://steadytrekker.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Steady Trekker Full Atom Feed" />
-        <link href="https://steadytrekker.com/feeds/articles.atom.xml" type="application/atom+xml" rel="alternate" title="Steady Trekker Categories Atom Feed" />
+        <link href="https://steadytrekker.com/feeds/nepal.atom.xml" type="application/atom+xml" rel="alternate" title="Steady Trekker Categories Atom Feed" />
 
 
 
@@ -50,7 +50,7 @@
     </header>
     <footer class="post-info">
       <time class="published" datetime="2018-10-31T20:25:38-07:00">
-        Wed 31 October 2018
+        Published: Wed 31 October 2018
       </time>
     </footer><!-- /.post-info -->
     <div class="entry-content">
@@ -100,5 +100,18 @@
     </div><!-- /.entry-content -->
   </div>
 </section>
+
+<script>
+  const article = document.querySelector(".entry-content");
+
+  for (let i = 0; i < article.children.length; i++) {
+    let cur_el = article.children[i];
+    if (cur_el.nodeName === 'P' && cur_el.children.length > 0) {
+      if (cur_el.children[0].nodeName === 'IMG') {
+        cur_el.style.maxWidth = "100%";
+      }
+    }
+  }
+</script>
 </body>
 </html>
