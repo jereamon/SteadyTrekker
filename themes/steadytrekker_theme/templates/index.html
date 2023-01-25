@@ -8,6 +8,7 @@
   @media (min-width: 768px) and (orientation: landscape) {
     section#home {
       background-image: url("{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{{ HOME_IMAGE_FULL }}");
+    }
   }
 </style>
 
@@ -29,9 +30,9 @@
           {% if article.postimage %}
             <img class="post-image" src="{{ SITEURL }}/images/{{ article.postimage }}" 
             {% if article.postimagealt %}
-              alt="{{ article.postimagealt }}">
+              alt="{{ article.postimagealt }}" />
             {% else %}
-              alt="">
+              alt="" />
             {% endif %}
           {% endif %}
           

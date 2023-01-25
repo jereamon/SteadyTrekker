@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}{{ SITENAME }} - Archives{% endblock %}
+{% block title %}{{ SITENAME }} - Blog{% endblock %}
 
 {% block content %}
 <h1>Archives for {{ SITENAME }}</h1>
@@ -11,4 +11,5 @@
     <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
 {% endfor %}
 </dl>
-{% endblock %}
+
+{% endblock content %}
