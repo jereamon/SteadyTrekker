@@ -89,7 +89,7 @@ nav {
                 padding-left: 25px;
                 padding-right: 25px;
                 width: auto;
-                transition: background-color 250ms;
+                @include nav-hover;
 
                 &.burger-container {
                     display: none;
@@ -102,13 +102,37 @@ nav {
                 &:nth-child(2) {
                     justify-self: start;
                 }
-
-                &:hover {
-                    background-color: var(--blue);
-
-                }
             }
         }
     }
 }
 /*#endregion Nav */
+
+
+/*#region pagination */
+section#posts {
+  .paginator-outer {
+      border-top: var(--nav-border);
+      height: var(--nav-height);
+      @include flex-normal-center-center;
+
+    a {
+      color: var(--light-grey);
+      height: 100%;
+      max-width: var(--nav-height);
+      padding-left: 10px;
+      padding-right: 10px;
+      @include nav-hover;
+      @include flex-normal-center-center;
+
+      &.next-page {
+          margin-left: 10px;
+      }
+      &.previous-page {
+          margin-right: 10px;
+      }
+    }
+  }
+}
+
+/*#endredion pagination */

@@ -1,4 +1,4 @@
-/*#region Start Variables  */
+/*#region Variables  */
 :root {
     --dark-grey: #333333;
     --light-grey: #eeeeee;
@@ -32,13 +32,13 @@
     --home-post-side-padding: 15px;
     --home-post-margin:       15px;
 }
-/*#endregion End Variables  */
+/*#endregion Variables  */
 
 
 /*#region Start CSS Reset */
 html {
     box-sizing: border-box;
-    height: 100vh;
+    height: 100%;
 }
 
 *,
@@ -57,11 +57,22 @@ h5,
 h6,
 p,
 ol,
-ul {
+ul,
+figure {
     color: var(--light-grey);
     margin: 0;
     padding: 0;
     font-weight: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--sans-serif-font);
+    margin-bottom: calc(var(--nav-height) / 2);
 }
 
 h1 {
@@ -72,7 +83,6 @@ h1 {
 
 h2 {
     font-size: var(--sub-header-size);
-    font-family: var(--serif-font);
 }
 
 p {
@@ -85,11 +95,12 @@ ul {
 }
 
 a {
-    display: block;
+    // display: block;
+    // color: var(--blue);
     text-decoration: none;
 }
 
-img {
+img, video {
     max-width: 100%;
     height: auto;
 }
@@ -100,3 +111,58 @@ body {
     background-color: var(--dark-grey);
     padding-top: var(--nav-height);
 }
+
+
+/*#region Mixins */
+@mixin nav-hover {
+    transition: background-color 250ms;
+
+    &:hover {
+        background-color: var(--blue);
+    }
+}
+
+@mixin flex-normal-center-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+@mixin flex-column-horiz-center {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+@mixin nested-list {
+  ul {
+    list-style-type: circle;
+    list-style-position: inside;
+
+    ul {
+      margin-bottom: calc(var(--nav-height) / 4);
+      margin-left: calc(var(--nav-height) / 2);
+      margin-top: calc(var(--nav-height) / 16);
+
+      ul {
+        margin-bottom: calc(var(--nav-height) / 4);
+        margin-left: calc(var(--nav-height) / 2);
+        margin-top: calc(var(--nav-height) / 16);
+
+        ul {
+          margin-bottom: calc(var(--nav-height) / 4);
+          margin-left: calc(var(--nav-height) / 2);
+          margin-top: calc(var(--nav-height) / 16);
+
+          ul {
+            margin-bottom: calc(var(--nav-height) / 4);
+            margin-left: calc(var(--nav-height) / 2);
+            margin-top: calc(var(--nav-height) / 16);
+          }
+        }
+      }
+    }
+  }
+}
+/*#endregion Mixins */

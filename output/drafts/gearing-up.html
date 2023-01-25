@@ -34,7 +34,7 @@
       <li class="burger-container">
         <span class="burger"></span>
       </li>
-      <li><a href="">Steady Trekker</a></li>
+      <li><a href="/">Steady Trekker</a></li>
     </ul>
   </nav><!-- /#menu -->
 
@@ -48,7 +48,7 @@
     </header>
     <footer class="post-info">
       <time class="published" datetime="2018-07-02T07:30:36-07:00">
-        Mon 02 July 2018
+        Published: Mon 02 July 2018
       </time>
     </footer><!-- /.post-info -->
     <div class="entry-content">
@@ -56,7 +56,7 @@
 <p>For Nepal I've put together a tentative day by day plan for the trek I'm most looking forward to, found a variety of places to visit in and around Kathmandu, and booked a hotel for my first few nights.</p>
 <p>For New Zealand, I bought a used touring bike that came with panniers, have been going for road rides near home and went on an overnight trip to Trout Lake Creek Campground.</p>
 <p>As well I've been gearing up at a prodigious rate in the hope I'll have time to familiarize myself with new gear before embarking with it in foreign countries. I've purchased a tent, sleeping pad, sunglasses, battery pack, down quilt, and a ton of 700c innertubes.</p>
-<p><img class="wp-image-702 size-medium aligncenter" src="/images/article_images/2018/07/20180628_1049033762508356711262655-e1530494657424-300x160.jpg" alt="" width="300" height="160" data-temp-aztec-id="21c47223-4d55-4d57-bfa9-5b46d518962c" /></p>
+<p><img class="wp-image-702 size-medium aligncenter" src="/images/article_images/2018/07/20180628_1049033762508356711262655-e1530494657424.jpg" alt="" /></p>
 <p style="text-align: center;">(Old sleeping pad vs new sleeping pad size with fuel canister for scale)</p>
 
 <p><br></p>
@@ -64,5 +64,18 @@
     </div><!-- /.entry-content -->
   </div>
 </section>
+
+<script>
+  const article = document.querySelector(".entry-content");
+
+  for (let i = 0; i < article.children.length; i++) {
+    let cur_el = article.children[i];
+    if (cur_el.nodeName === 'P' && cur_el.children.length > 0) {
+      if (cur_el.children[0].nodeName === 'IMG') {
+        cur_el.style.maxWidth = "100%";
+      }
+    }
+  }
+</script>
 </body>
 </html>

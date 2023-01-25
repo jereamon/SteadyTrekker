@@ -55,7 +55,7 @@
       <li class="burger-container">
         <span class="burger"></span>
       </li>
-      <li><a href="{{ SITEURL }}">Steady Trekker</a></li>
+      <li><a href="{{ SITEURL }}/">Steady Trekker</a></li>
       {% if DISPLAY_PAGES_ON_MENU %}
         {% for p in pages %}
           <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>

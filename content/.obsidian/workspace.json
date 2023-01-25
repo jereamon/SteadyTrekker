@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "412a8f5b99f6c21b",
+    "type": "split",
+    "children": [
+      {
+        "id": "89cc1f1fecca27ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94dffb070476b054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "articles/2023/January/Trail of the Coeur d'Alenes and Route of the Hiawatha Bike Trip.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf9378a8167efa39",
+    "type": "split",
+    "children": [
+      {
+        "id": "82c18fef7793c1af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "708d1bc06cb91636",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b62fc6f3acdebfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3daac9af728349f3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "1ceb2074460daccf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ce6f9e7033ca6e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46c3273d9e2fadd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "articles/2023/January/Trail of the Coeur d'Alenes and Route of the Hiawatha Bike Trip.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87aeae364d0fd326",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "articles/2023/January/Trail of the Coeur d'Alenes and Route of the Hiawatha Bike Trip.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50acadcbbf11b6a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db9203218bfd8d01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "articles/2023/January/Trail of the Coeur d'Alenes and Route of the Hiawatha Bike Trip.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "94dffb070476b054",
+  "lastOpenFiles": [
+    "articles/2023/January/my_first_post.md",
+    "articles/2023/January/Trail of the Coeur d'Alenes and Route of the Hiawatha Bike Trip.md",
+    "home/Documents/steadytrekker/content/images/article_images/default-post-thumbnail.jpg.md",
+    "images/article_images/default-post-thumbnail.jpg",
+    "articles/2023/Trail of the Coeur d'Alenes and Route of the Hiawatha Bike Trip.md"
+  ]
+}

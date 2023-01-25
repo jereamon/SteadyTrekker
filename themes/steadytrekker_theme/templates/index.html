@@ -14,7 +14,7 @@
 <section id="home">
   <div>
     <h1>Hi, I'm Jeremy</h1>
-    <h2>This is the place to follow along with my&nbsp;adventures</h2>
+    <h2>This is the place to follow along<br>with my&nbsp;adventures</h2>
   </div>
 </section>
 
@@ -27,7 +27,12 @@
             rel="bookmark" 
             title="Permalink to {{ article.title|striptags }}">
           {% if article.postimage %}
-            <img class="post-image" src="{{ SITEURL }}/images/{{ article.postimage }}" alt="">
+            <img class="post-image" src="{{ SITEURL }}/images/{{ article.postimage }}" 
+            {% if article.postimagealt %}
+              alt="{{ article.postimagealt }}">
+            {% else %}
+              alt="">
+            {% endif %}
           {% endif %}
           
           <h2 class="entry-title">

@@ -34,7 +34,7 @@
       <li class="burger-container">
         <span class="burger"></span>
       </li>
-      <li><a href="">Steady Trekker</a></li>
+      <li><a href="/">Steady Trekker</a></li>
     </ul>
   </nav><!-- /#menu -->
 
@@ -48,7 +48,7 @@
     </header>
     <footer class="post-info">
       <time class="published" datetime="2018-05-05T01:44:05-07:00">
-        Sat 05 May 2018
+        Published: Sat 05 May 2018
       </time>
     </footer><!-- /.post-info -->
     <div class="entry-content">
@@ -61,5 +61,18 @@ I just filled up my journal yesterday. I started it a year and a half ago, initi
     </div><!-- /.entry-content -->
   </div>
 </section>
+
+<script>
+  const article = document.querySelector(".entry-content");
+
+  for (let i = 0; i < article.children.length; i++) {
+    let cur_el = article.children[i];
+    if (cur_el.nodeName === 'P' && cur_el.children.length > 0) {
+      if (cur_el.children[0].nodeName === 'IMG') {
+        cur_el.style.maxWidth = "100%";
+      }
+    }
+  }
+</script>
 </body>
 </html>
