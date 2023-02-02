@@ -22,30 +22,51 @@
 <section id="posts">
   <h1>Recent Posts</h1>
   <ol id="post-list">
-    {% for article in articles_page.object_list %}
+    {% if articles | length >= 6 %}
+      {% for i in range(6) %}
+        <li>
+          <a href="{{ SITEURL }}/{{ articles[i].url }}" 
+              rel="bookmark" 
+              title="Permalink to {{ articles[i].title|striptags }}">
+            {% if articles[i].postimage %}
+              <img class="post-image" src="{{ SITEURL }}/images/{{ articles[i].postimage }}" 
+              {% if articles[1].postimagealt %}
+                alt="{{ articles[i].postimagealt }}">
+              {% else %}
+                alt="Default image alt. Sorry, it's useless.">
+              {% endif %}
+            {% endif %}
+            
+            <h2 class="entry-title">
+              {{ articles[i].title }}
+            </h2>
+          </a>
+        </li>
+      {% endfor %}
+    {% else %}
+    {% for article in articles %}
       <li>
         <a href="{{ SITEURL }}/{{ article.url }}" 
             rel="bookmark" 
-            title="Permalink to {{ article.title|striptags }}">
-          {% if article.postimage %}
-            <img class="post-image" src="{{ SITEURL }}/images/{{ article.postimage }}" 
-            {% if article.postimagealt %}
-              alt="{{ article.postimagealt }}" />
+            title="Permalink to {{ articles.title|striptags }}">
+          {% if articles.postimage %}
+            <img class="post-image" src="{{ SITEURL }}/images/{{ articles.postimage }}" 
+            {% if articles.postimagealt %}
+              alt="{{ articles.postimagealt }}">
             {% else %}
-              alt="" />
+              alt="Default image alt. Sorry, it's useless.">
             {% endif %}
           {% endif %}
           
           <h2 class="entry-title">
-            {{ article.title }}
+            {{ articles.title }}
           </h2>
         </a>
       </li>
     {% endfor %}
+    {% endif %}
   </ol><!-- /#posts-list -->
 
-  {% if articles_page.has_other_pages() %}
-    {% include 'pagination.html' %}
-  {% endif %}
+  <a href="{{ SITEURL }}/{{ ARCHIVES_URL }}" class="blog">View All Posts</a>
 </section>
 {% endblock content %}

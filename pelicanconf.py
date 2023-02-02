@@ -25,10 +25,34 @@ blog directory.
 
 This makes for cleaner urls.
 """
-ARTICLE_URL = "blog/{slug}"
+ARTICLE_URL =     'blog/{slug}'
 ARTICLE_SAVE_AS = 'blog/{slug}/index.html'
-PAGE_URL = "{slug}/"
-PAGE_SAVE_AS = "{slug}/index.html"
+PAGE_URL =        '{slug}/'
+PAGE_SAVE_AS =    '{slug}/index.html'
+
+# This is so that I can use the archive.html template
+#   as my blog page.
+ARCHIVES_SAVE_AS = 'blog/index.html'
+ARCHIVES_URL =     'blog/'
+
+DEFAULT_PAGINATION = 6
+
+# Turns off pagination on the home page and turns it on
+#   for the archives (blog) page.
+# PAGINATED_TEMPLATES options:
+#   False -- pagination off
+#   None  -- uses DEFAULT_PAGINATION
+#   3     -- three posts per page
+PAGINATED_DIRECT_TEMPLATES = ['archives']
+PAGINATION_PATTERNS = (
+    (1, 'blog/', 'blog/index.html'),
+    (2, 'blog/page/{number}', 'blog/page/{number}/index.html')
+)
+
+
+# These are the templates that should be rendered themsevles.
+DIRECT_TEMPLATES = ['index', 'archives']
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -47,7 +71,6 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 6
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

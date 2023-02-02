@@ -8,9 +8,9 @@
 
   {% for page_number in range(articles_paginator.num_pages) %}
     {% if page_number == 0 %}
-      <a href="{{ SITEURL }}/index.html">{{ page_number + 1 }}</a>  
+      <a href="{{ SITEURL }}/{{ ARCHIVES_URL }}">{{ page_number + 1 }}</a>  
     {% else %}
-      <a href="{{ SITEURL }}/index{{ page_number + 1 }}.html">{{ page_number + 1 }}</a>
+      <a href="{{ SITEURL }}/{{ ARCHIVES_URL }}page/{{ page_number + 1 }}">{{ page_number + 1 }}</a>
     {% endif %}
   {% endfor %}
 
