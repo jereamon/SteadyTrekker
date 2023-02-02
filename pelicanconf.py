@@ -27,31 +27,26 @@ This makes for cleaner urls.
 """
 ARTICLE_URL =     'blog/{slug}'
 ARTICLE_SAVE_AS = 'blog/{slug}/index.html'
-PAGE_URL =        '{slug}/'
+PAGE_URL =        '{slug}'
 PAGE_SAVE_AS =    '{slug}/index.html'
 
-# This is so that I can use the archive.html template
+# This is so that I can use the blog.html template
 #   as my blog page.
-ARCHIVES_SAVE_AS = 'blog/index.html'
-ARCHIVES_URL =     'blog/'
+BLOG_SAVE_AS = 'blog/index.html'
+BLOG_URL = 'blog'
 
 DEFAULT_PAGINATION = 6
 
-# Turns off pagination on the home page and turns it on
-#   for the archives (blog) page.
-# PAGINATED_TEMPLATES options:
-#   False -- pagination off
-#   None  -- uses DEFAULT_PAGINATION
-#   3     -- three posts per page
-PAGINATED_DIRECT_TEMPLATES = ['archives']
-PAGINATION_PATTERNS = (
-    (1, 'blog/', 'blog/index.html'),
-    (2, 'blog/page/{number}', 'blog/page/{number}/index.html')
-)
+# Only the pages listed here will have pagination
+PAGINATED_DIRECT_TEMPLATES = ['blog']
+# PAGINATION_PATTERNS = (
+#     (1, 'blog', 'blog/index.html'),
+#     (2, 'blog/page/{number}', 'blog/page/{number}/index.html')
+# )
 
 
-# These are the templates that should be rendered themsevles.
-DIRECT_TEMPLATES = ['index', 'archives']
+# These are the templates that should be rendered themsevles. Unlike articles, for example.
+DIRECT_TEMPLATES = ['index', 'archives', 'blog']
 
 
 # Feed generation is usually not desired when developing

@@ -113,6 +113,18 @@ body {
 }
 
 
+/*#region Universal Classes */
+.button-normal {
+    align-items: center;
+    background-color: var(--blue);
+    color: var(--light-grey);
+    display: flex;
+    justify-content: center;
+    padding: 15px 25px;
+}
+/*#endregion Universal Classes */
+
+
 /*#region Mixins */
 @mixin nav-hover {
     transition: background-color 250ms;

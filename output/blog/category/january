@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-      <title>Steady Trekker - Test category</title>
+      <title>Steady Trekker - January category</title>
       <meta charset="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta name="generator" content="Pelican" />
@@ -30,7 +30,7 @@
         <span class="burger"></span>
       </li>
       <li><a href="/">Steady Trekker</a></li>
-      <li><a href="/">Blog</a></li>
+      <li><a href="/blog/">Blog</a></li>
     </ul>
   </nav><!-- /#menu -->
 
@@ -57,7 +57,7 @@
   <h1>Recent Posts</h1>
   <ol id="post-list">
       <li>
-        <a href="/blog/my-first-post-on-this-new-site" 
+        <a href="/blog/trail-of-the-coeur-dalenes-and-route-of-the-hiawatha" 
             rel="bookmark" 
             title="Permalink to ">
           
@@ -68,7 +68,7 @@
       </li>
   </ol><!-- /#posts-list -->
 
-  <a class="button-normal" href="/blog" class="blog">View All Posts</a>
+  <a class="button-normal" href="/blog/" class="blog">View All Posts</a>
 </section>
 </body>
 </html>

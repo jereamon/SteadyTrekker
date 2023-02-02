@@ -1,32 +1,14 @@
 {% extends "base.html" %}
 
-{% block title %}{{ SITENAME }} - Blog{% endblock %}
+{% block title %}{{ SITENAME }} - Archives{% endblock %}
 
 {% block content %}
-  <section id="posts">
-    <ol id="post-list">
-      {% for article in articles_page.object_list %}
-        <li>
-          <a href="{{ SITEURL }}/{{ article.url }}" title="Permalink to {{ article.title|striptags }}">
-            {% if article.postimage %}
-              <img class="post-image" src="{{ SITEURL }}/images/{{ article.postimage }}" 
-                {% if article.postimagealt %}
-                  alt="{{ article.postimagealt }}" />
-                {% else %}
-                  alt="" />
-                {% endif %}
-            {% endif %}
-          
-            <h2 class="entry-title">
-              {{ article.title }}
-            </h2>
-          </a>
-        </li>
-      {% endfor %}
-    </ol><!-- /#posts-list -->
+<h1>Archives for {{ SITENAME }}</h1>
 
-    {% if articles_page.has_other_pages() %}
-        {% include 'pagination.html' %}
-    {% endif %}
-  </section>
-{% endblock content %}
+<dl>
+{% for article in dates %}
+    <dt>{{ article.locale_date }}</dt>
+    <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+{% endfor %}
+</dl>
+{% endblock %}
