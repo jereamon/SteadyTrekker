@@ -318,6 +318,7 @@ section#posts ol li a img {
 }
 section#posts ol li h2 {
   font-family: var(--sans-serif-font);
+  font-size: 25px;
   text-align: center;
   padding-left: 15px;
   padding-right: 15px;
