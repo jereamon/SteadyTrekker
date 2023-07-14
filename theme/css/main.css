@@ -28,6 +28,7 @@ Article    -- styles for article.html
   --burger-bar-offset: 12px;
   --main-size: 16px;
   --header-size: 35px;
+  --big-header-size: 45px;
   --sub-header-size: 30px;
   --serif-font: "Cormorant Garamond", "Times New Roman", Georgia, Serif;
   --sans-serif-font: "Lato", Helvetica, Arial, sans-serif;
@@ -74,11 +75,10 @@ h4,
 h5,
 h6 {
   font-family: var(--sans-serif-font);
-  margin-bottom: calc(var(--nav-height) / 2);
 }
 
 h1 {
-  font-size: var(--header-size);
+  font-size: var(--big-header-size);
   font-family: var(--sans-serif-font);
   font-weight: normal;
 }
@@ -255,24 +255,55 @@ section#home {
   flex-direction: column;
   justify-content: flex-end;
   padding-bottom: 15vh;
+  padding-top: 50px;
   text-align: center;
-  height: calc(100vh - var(--nav-height));
 }
-section#home div {
-  background-color: var(--purple-low-opacity);
-  border-radius: 10px;
-  padding: 5vh 15px;
+section#home a {
+  background-color: var(--brown);
+  border-radius: 5px;
+  display: block;
+  height: 50px;
+  line-height: 50px;
+  margin: 15px 0;
+  width: 250px;
+  transition: 250ms;
 }
-section#home h1, section#home h2 {
-  text-shadow: var(--grey-text-shadow);
+section#home a:hover {
+  background-color: var(--blue);
+  font-size: 1.2rem;
+}
+section#home .grid {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 15px;
+  width: 75vw;
+  max-width: 550px;
+}
+section#home h1 {
+  font-size: 15vw;
+  white-space: nowrap;
+  font-family: var(--serif-font);
+}
+section#home h2 {
+  font-size: 7vw;
+  white-space: nowrap;
+  font-family: var(--sans-serif-font);
+}
+section#home h3 {
+  padding: 50px 0 0;
 }
 
 @media (min-width: 769px) {
   section#home {
     justify-content: center;
   }
+}
+@media (orientation: landscape) {
+  section#home h1 {
+    font-size: 12vh;
+  }
   section#home h2 {
-    font-family: var(--serif-font);
+    font-size: 5vh;
   }
 }
 /*#endregion Home */
@@ -318,7 +349,6 @@ section#posts ol li a img {
 }
 section#posts ol li h2 {
   font-family: var(--sans-serif-font);
-  font-size: 25px;
   text-align: center;
   padding-left: 15px;
   padding-right: 15px;
@@ -466,4 +496,9 @@ section#article-container div#article-content .entry-content ul ul ul ul ul {
   section#article-container div#article-content {
     background-color: var(--dark-grey);
   }
+}
+#about {
+  background-size: contain;
+  height: calc(100vh - var(--nav-height));
+  width: 100%;
 }/*# sourceMappingURL=main.css.map */
