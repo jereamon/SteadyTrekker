@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block html_lang %}{{ item.lang }}{% endblock %}
+
+{% block title %}{{ SITENAME }} - {{ item.title|striptags  }}{% endblock %}
+
+{% block head %}
+  {{ super() }}
+{% endblock %}
+
+{% block content %}
+<section class="item-container">
+  <h1>Hello I am the item template</h1>
+</section>
+
+<!-- <section id="article-container">
+  <div id="article-content" class="body">
+    <header>
+      <h2 class="entry-title">
+        <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+          title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
+  {% import 'translations.html' as translations with context %}
+  {{ translations.translations_for(article) }}
+    </header>
+    <footer class="post-info">
+      <time class="published" datetime="{{ article.date.isoformat() }}">
+        Published: {{ article.locale_date }}
+      </time>
+    </footer>
+    <div class="entry-content">
+      {{ article.content }}
+    </div>
+  </div>
+</section> -->
+
+<!-- <script>
+  const article = document.querySelector(".entry-content");
+
+  for (let i = 0; i < article.children.length; i++) {
+    let cur_el = article.children[i];
+    if (cur_el.nodeName === 'P' && cur_el.children.length > 0) {
+      if (cur_el.children[0].nodeName === 'IMG') {
+        cur_el.style.maxWidth = "100%";
+      }
+    }
+  }
+</script> -->
+{% endblock %}
+ 

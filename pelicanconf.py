@@ -25,10 +25,14 @@ blog directory.
 
 This makes for cleaner urls.
 """
+ITEM_URL =     'store/{slug}'
+ITEM_SAVE_AS = 'store/{slug}/index.html'
+
 ARTICLE_URL =     'blog/{slug}'
 ARTICLE_SAVE_AS = 'blog/{slug}/index.html'
 PAGE_URL =        '{slug}'
 PAGE_SAVE_AS =    '{slug}/index.html'
+
 
 # This is so that I can use the blog.html template
 #   as my blog page.
@@ -78,8 +82,10 @@ JS_FILE  = "main.js"
 # If this is True then the categories show up on the main menu
 DISPLAY_CATEGORIES_ON_MENU = False
 
-HOME_IMAGE = "home01_radial_gradient.jpg"
+HOME_IMAGE = "home_hat-0.jpg"
 HOME_IMAGE_FULL = "DSC00800-gradient.jpg"
+
+ABOUT_IMAGE = "DSC00800-full-size_compressed.jpg"
 
 
 IGNORE_FILES = [

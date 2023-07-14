@@ -21,6 +21,7 @@
 
     --main-size: 16px;
     --header-size: 35px;
+    --big-header-size: 45px;
     --sub-header-size: 30px;
 
     --serif-font: "Cormorant Garamond", "Times New Roman", Georgia, Serif;
@@ -72,11 +73,11 @@ h4,
 h5,
 h6 {
     font-family: var(--sans-serif-font);
-    margin-bottom: calc(var(--nav-height) / 2);
+    // margin-bottom: calc(var(--nav-height) / 2);
 }
 
 h1 {
-    font-size: var(--header-size);
+    font-size: var(--big-header-size);
     font-family: var(--sans-serif-font);
     font-weight: normal;
 }

@@ -10,6 +10,12 @@
   {% if translations.entry_hreflang(page) %}
     {{ translations.entry_hreflang(page) }}
   {% endif %}
+
+  <style>
+    section#about {
+      background-image: url("{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{{ ABOUT_IMAGE }}");
+    }
+  </style>
 {% endblock %}
 
 {% block content %}

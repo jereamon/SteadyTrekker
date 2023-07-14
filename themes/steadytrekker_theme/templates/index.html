@@ -1,72 +1,23 @@
 {% extends "base.html" %}
 {% block content %}
-<style>
-  section#home {
-    background-image: url("{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{{ HOME_IMAGE }}");
-  }
-
-  @media (min-width: 768px) and (orientation: landscape) {
-    section#home {
-      background-image: url("{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{{ HOME_IMAGE_FULL }}");
-    }
-  }
-</style>
-
 <section id="home">
-  <div>
-    <h1>Hi, I'm Jeremy</h1>
-    <h2>This is the place to follow along<br>with my&nbsp;adventures</h2>
+  <h1>Steady Trekker</h1>
+  <h2>Hats and Gear</h2>
+  <p style="padding-top: 50px;">Please visit my Etsy shop to purchase items:</p>
+  <a href="https://www.etsy.com/shop/SteadyTrekker">SteadyTrekker Etsy Shop</a>
+
+
+  <h3 style="padding-bottom: 10px;">Examples of my sewn goods include:</h3>
+  <div class="grid">
+      <div class="item">
+        <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/home_hat-0.jpg" alt="A picture of a hat">
+      </div>
+      <div class="item">
+        <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/home_hat-3.jpg" alt="A picture of a hat">
+      </div>
+      <div class="item">
+        <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/home_hat-6.jpg" alt="A picture of a hat">
+      </div>
   </div>
-</section>
-
-<section id="posts">
-  <h1>Recent Posts</h1>
-  <ol id="post-list">
-    {% if articles | length >= 6 %}
-      {% for i in range(6) %}
-        <li>
-          <a href="{{ SITEURL }}/{{ articles[i].url }}" 
-              rel="bookmark" 
-              title="Permalink to {{ articles[i].title|striptags }}">
-            {% if articles[i].postimage %}
-              <img class="post-image" src="{{ SITEURL }}/images/{{ articles[i].postimage }}" 
-              {% if articles[1].postimagealt %}
-                alt="{{ articles[i].postimagealt }}">
-              {% else %}
-                alt="Default image alt. Sorry, it's useless.">
-              {% endif %}
-            {% endif %}
-            
-            <h2 class="entry-title">
-              {{ articles[i].title }}
-            </h2>
-          </a>
-        </li>
-      {% endfor %}
-    {% else %}
-    {% for article in articles %}
-      <li>
-        <a href="{{ SITEURL }}/{{ article.url }}" 
-            rel="bookmark" 
-            title="Permalink to {{ articles.title|striptags }}">
-          {% if articles.postimage %}
-            <img class="post-image" src="{{ SITEURL }}/images/{{ articles.postimage }}" 
-            {% if articles.postimagealt %}
-              alt="{{ articles.postimagealt }}">
-            {% else %}
-              alt="Default image alt. Sorry, it's useless.">
-            {% endif %}
-          {% endif %}
-          
-          <h2 class="entry-title">
-            {{ articles.title }}
-          </h2>
-        </a>
-      </li>
-    {% endfor %}
-    {% endif %}
-  </ol><!-- /#posts-list -->
-
-  <a class="button-normal" href="{{ SITEURL }}/{{ BLOG_URL }}" class="blog">View All Posts</a>
 </section>
 {% endblock content %}
