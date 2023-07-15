@@ -19,6 +19,7 @@ Article    -- styles for article.html
   --purple-low-opacity: rgba(71, 41, 76, 0.8);
   --brown: #715416;
   --blue: #00616a;
+  --blue-low-opacity: rgba(0, 97, 106, 0.66);
   --grey-text-shadow: 2px 2px 1px var(--dark-grey);
   --nav-height: 50px;
   --nav-border: solid 1px var(--light-grey);
@@ -28,7 +29,7 @@ Article    -- styles for article.html
   --burger-bar-offset: 12px;
   --main-size: 16px;
   --header-size: 35px;
-  --big-header-size: 45px;
+  --big-header-size: 40px;
   --sub-header-size: 30px;
   --serif-font: "Cormorant Garamond", "Times New Roman", Georgia, Serif;
   --sans-serif-font: "Lato", Helvetica, Arial, sans-serif;
@@ -255,8 +256,17 @@ section#home {
   flex-direction: column;
   justify-content: flex-end;
   padding-bottom: 15vh;
-  padding-top: 50px;
   text-align: center;
+}
+section#home .home-header-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-position: center 80%;
+  background-size: cover;
+  height: 66vh;
+  padding-top: 10vh;
+  width: 100%;
 }
 section#home a {
   background-color: var(--brown);
@@ -498,7 +508,27 @@ section#article-container div#article-content .entry-content ul ul ul ul ul {
   }
 }
 #about {
-  background-size: contain;
+  background-size: cover;
+  background-position: center top;
   height: calc(100vh - var(--nav-height));
+  padding-top: 25vh;
+  justify-content: flex-start;
   width: 100%;
+}
+#about p, #about h1 {
+  max-width: 450px;
+  text-shadow: #333 0px 0px 10px;
+}
+
+.container {
+  align-items: center;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 15px 30px;
+}
+
+.background-blue {
+  background-color: var(--blue-low-opacity);
 }/*# sourceMappingURL=main.css.map */
