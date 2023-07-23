@@ -1,23 +1,27 @@
 {% extends "base.html" %}
 {% block content %}
+
 <section id="home">
-  <h1>Steady Trekker</h1>
-  <h2>Hats and Gear</h2>
-  <p style="padding-top: 50px;">Please visit my Etsy shop to purchase items:</p>
-  <a href="https://www.etsy.com/shop/SteadyTrekker">SteadyTrekker Etsy Shop</a>
+  <div class="home-header-container" style="background-image: url(images/mountain-home.jpg);">
+    <h1>Steady Trekker</h1>
+    <h2>Hats and Gear</h2>
+    <p style="padding-top: 50px;">Please visit my Etsy shop to purchase items:</p>
+    <a target="_blank" href="https://www.etsy.com/shop/SteadyTrekker">SteadyTrekker Etsy Shop</a>
+  </div>
 
 
   <h3 style="padding-bottom: 10px;">Examples of my sewn goods include:</h3>
-  <div class="grid">
-      <div class="item">
-        <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/home_hat-0.jpg" alt="A picture of a hat">
-      </div>
-      <div class="item">
-        <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/home_hat-3.jpg" alt="A picture of a hat">
-      </div>
-      <div class="item">
-        <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/home_hat-6.jpg" alt="A picture of a hat">
-      </div>
+  <div class="grid-gallery">
+    <div class="modal-div">
+      <img src="images/mountain-home.jpg" alt="A rocky ridge with a hiker standing on it." class="modal-image">
+    </div>
+    {% for filename in SELECTED_HOME_PHOTOS %}
+      <img class="grid-gallery-image"
+           src='{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{{filename}}'
+      >
+      </img>
+    {% endfor %}
+
   </div>
 </section>
 {% endblock content %}

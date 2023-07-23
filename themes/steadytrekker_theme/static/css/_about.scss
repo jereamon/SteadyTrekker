@@ -1,5 +1,32 @@
 #about {
-    background-size: contain;
+    background-size: cover;
+    background-position: center top;
     height: calc(100vh - var(--nav-height));
+    padding-top: 25vh;
+    justify-content: flex-start;
     width: 100%;
+
+    p, h1 {
+        max-width: 450px;
+        text-shadow: #333 0px 0px 10px;
+    }
+}
+
+// @media (min-width: 475px) {
+//     #about {
+//         background-position: center top;
+//     }
+// }
+
+.container {
+    align-items: center;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 15px 30px;
+}
+
+.background-blue {
+    background-color: var(--blue-low-opacity);
 }
