@@ -8,7 +8,6 @@
     --purple-low-opacity: rgba(71, 41, 76, 0.8);
     --brown:  #715416;
     --blue:   #00616a;
-    --blue-low-opacity:   rgba(0, 97, 106, 0.66);
 
     --grey-text-shadow: 2px 2px 1px var(--dark-grey);
 
@@ -22,7 +21,7 @@
 
     --main-size: 16px;
     --header-size: 35px;
-    --big-header-size: 40px;
+    --big-header-size: 45px;
     --sub-header-size: 30px;
 
     --serif-font: "Cormorant Garamond", "Times New Roman", Georgia, Serif;
@@ -103,9 +102,8 @@ a {
 }
 
 img, video {
+    max-width: 100%;
     height: auto;
-    max-height: 100%;
-    max-width: 100%;    
 }
 /*#endregion End CSS Reset */
 

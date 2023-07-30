@@ -29,31 +29,4 @@ document.addEventListener('DOMContentLoaded', function() {
           body.style.gridTemplateRows = `repeat(${body_length}, ${window.innerHeight - nav_height}px)`;
     // body.style.gridTemplateRows = `repeat(${body_length}, ${window.offsetHeight - nav_height})`;
     //#endregion HOME Section
-
-
-    //#region grid gallery
-    let galleryImages = document.querySelectorAll(".grid-gallery .grid-gallery-image");
-    if (galleryImages.length > 0) {
-        let modalDiv = document.querySelector(".modal-div");
-        let modalImage = document.querySelector(".modal-image");
-
-        for (let i = 0; i < galleryImages.length; i++) {
-            galleryImages[i].addEventListener('click', function () {
-                modalDiv.style.display = "flex";
-                modalImage.src = galleryImages[i].src;
-            })
-        }
-
-        modalDiv.addEventListener('click', function() {
-            modalDiv.style.display = "none";
-        })
-
-
-    }
-
-    function createModal() {
-        let modalDiv = document.createElement("div");
-        modalDiv.style.background
-    }
-    //#endregion grid gallery
 }, false);

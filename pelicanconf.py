@@ -34,20 +34,6 @@ PAGE_URL =        '{slug}'
 PAGE_SAVE_AS =    '{slug}/index.html'
 
 
-SELECTED_HOME_PHOTOS = [
-    "home_hat-14.jpg",
-    "home_hat-13.jpg",
-    "home_hat-10.jpg",
-    "home_hat-6.jpg",
-    "DSC04985.jpg",
-    "DSC04942.jpg",
-    "home_hat-3.jpg",
-    "home_hat-8.jpg",
-    "home_hat-0.jpg",
-    "home_hat-1.jpg"
-]
-
-
 # This is so that I can use the blog.html template
 #   as my blog page.
 BLOG_SAVE_AS = 'blog/index.html'
